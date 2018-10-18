@@ -120,7 +120,7 @@ nav {
   border: none;
   box-sizing: border-box;
   margin: 0;
-  padding: 1em;
+  padding: 0;
   color: #fff;
   position: relative;
   vertical-align: middle;
@@ -136,7 +136,7 @@ nav {
 }
 
 .draw {
-    transition: color 0.25s;
+    transition: color 0.25s ease-in-out;
 
   &::before,
   &::after {
