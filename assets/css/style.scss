@@ -1934,6 +1934,9 @@ html {
 }
 /*# sourceMappingURL=bootstrap-grid.css.map */
 
+
+
+
 /* GENERAL */
 body {
     overflow-x:hidden;
@@ -2045,8 +2048,8 @@ nav {
   padding: 1em 2em;
   
   // Using inset box-shadow instead of border for sizing simplicity
-  box-shadow: inset 0 0 0 2px $red;
-  color: $red;
+  box-shadow: inset 0 0 0 2px #fff;
+  color: #fff;
   font-size: inherit;
   font-weight: 700;
 
