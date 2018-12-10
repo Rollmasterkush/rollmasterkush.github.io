@@ -242,12 +242,17 @@ nav {
 
 /* GROW LOGS */
 .grow-log-preview {
-    height: 200px;
-    width: 150px;
+    height: 300px;
+    width: 250px;
     background: #3d3d3d;
     display:block;
     position:relative;
-    margin: 0 auto;
+    margin: 10px auto;
+    overflow:hidden;
+}
+.grow-log-preview img {
+    height: 300px;
+    width: 250px;
 }
 .grow-log-preview-title {
     text-align:center;
