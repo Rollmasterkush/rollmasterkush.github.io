@@ -92,6 +92,9 @@ z-index:10;
 .block-break-right {
     border-right: 2px solid #279f27;
 }
+.row-adjust {
+    margin-top: 400px;
+}
 /* GENERAL - END */
 
 /* NAVIGATION */
@@ -355,7 +358,7 @@ nav {
 footer {
     position:relative;
     top:60px;
-    left: -15px;
+    left: 0;
     background:linear-gradient(to right,#1d771d,#27a027);
     width:100vw;
     color:#fff;
@@ -374,6 +377,12 @@ footer {
 }
 .footer-nav .footer-nav-item {
     margin: 10px 0;
+}
+footer .site-logo {
+    font-size:3.5em;
+    font-family: 'Satisfy';
+    font-weight: 700;
+    text-align: center;
 }
 
 /* ------------- */
@@ -412,7 +421,9 @@ footer {
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
-
+    .row-adjust {
+    margin-top: 200px;
+    }
 }
 
 
