@@ -356,7 +356,7 @@ nav {
 
 /* FOOTER */
 footer {
-    height: 300px;
+    height: auto;
     position:relative;
     top:60px;
     left: 0;
@@ -394,7 +394,7 @@ footer .site-logo {
 }
 footer .site-copyright {
     bottom:0;
-    position:absolute;
+    position:relative;
     font-size:0.75em;
 }
 
@@ -430,12 +430,18 @@ footer .site-copyright {
     .p-center {
     padding:20px 100px;
     }
+    footer {
+    height: 300px;
+    }
 }
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
     .row-adjust {
     margin-top: 200px;
+    }
+    footer .site-copyright {
+    position:absolute;
     }
 }
 
