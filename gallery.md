@@ -1,2 +1,0 @@
-
-<div class='embedsocial-instagram' data-ref="0186eaf84ef2c46dbea78a9059d6ef5a7b18d2cd"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
