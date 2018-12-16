@@ -99,7 +99,7 @@ z-index:10;
 
 /* NAVIGATION */
 nav {
-    background: transparent;
+    background:linear-gradient(to right,#1d771d,#27a027);
     z-index:100;
 }
 .navbar-light .navbar-brand {
@@ -122,6 +122,10 @@ nav {
   position: relative;
   vertical-align: middle;
   cursor:pointer;
+}
+nav .nav-item .nav-link {
+  position:relative;
+  z-index:1000;
 }
 /* NAVIGATION - END */
 
