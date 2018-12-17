@@ -16,12 +16,11 @@
 
 
 /* GENERAL */
-body {
-    overflow-x:hidden;
+html {
+    overflow-x: hidden;
 }
 .container-fluid {
     position:relative;
-    top: -60px;
 }
 .col-landing,
 .col-full-width {
@@ -93,7 +92,7 @@ z-index:10;
     border-right: 2px solid #279f27;
 }
 .row-adjust {
-    margin-top: 400px;
+    margin-top: 100px;
 }
 /* GENERAL - END */
 
