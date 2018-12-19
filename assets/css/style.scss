@@ -196,6 +196,8 @@ nav .nav-item .nav-link {
     position:relative;
     margin: 10px auto;
     overflow:hidden;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px rgba(20,20,20,0.25);
 }
 .grow-log-preview-title {
     text-align:center;
