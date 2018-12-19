@@ -185,18 +185,17 @@ nav .nav-item .nav-link {
 
 
 /* GROW LOGS */
+.grow-log-preview, 
+.grow-log-preview img {
+    height: 200px;
+    width: 150px;
+}
 .grow-log-preview {
-    height: 300px;
-    width: 250px;
     background: #3d3d3d;
     display:block;
     position:relative;
     margin: 10px auto;
     overflow:hidden;
-}
-.grow-log-preview img {
-    height: 300px;
-    width: 250px;
 }
 .grow-log-preview-title {
     text-align:center;
@@ -383,6 +382,11 @@ footer .site-copyright {
     .p-center {
     padding:20px 100px;
     }
+    .grow-log-preview, 
+     .grow-log-preview img {
+    height: 225px;
+    width: 175px;
+    }
     footer {
     height: 300px;
     }
@@ -391,7 +395,7 @@ footer .site-copyright {
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
     .row-adjust {
-    margin-top: 200px;
+    margin-top: 175px;
     }
     footer .site-copyright {
     position:absolute;
