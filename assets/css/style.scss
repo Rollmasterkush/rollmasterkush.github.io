@@ -221,12 +221,14 @@ nav .nav-item .nav-link {
     text-decoration: none;
 }
 .keyword-item {
-    background: #e6e6e6;
-    border-radius: 10px;
-    margin: 10px 5px;
+    background: #70dc70;
+    border-radius: 5px;
+    margin: 10px;
     padding: 5px 8px;
-    color: #ff4500;
+    color: #fff;
     font-size: 0.9em;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.25);
+    box-shadow: 1px 1px 1px rgba(50,50,50,0.55);
 }
 
 
