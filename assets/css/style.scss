@@ -410,6 +410,9 @@ footer .site-copyright {
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
+    nav {
+        height: 50px;
+    }
     .row-adjust {
     margin-top: 175px;
     }
