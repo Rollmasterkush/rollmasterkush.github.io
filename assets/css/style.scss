@@ -356,6 +356,13 @@ footer {
     margin: 5px 10px;
     font-size: 0.85em;
 }
+.footer-nav .footer-nav-item a,
+.footer-nav .footer-nav-item a:hover,
+.footer-nav .footer-nav-item a:active {
+    text-decoration: none;
+    color: #FFF;
+    
+}
 footer .site-logo {
     font-size:3.5em;
     font-family: 'Satisfy';
