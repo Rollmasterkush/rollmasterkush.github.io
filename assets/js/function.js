@@ -23,7 +23,8 @@
 
 		} else {
 		/* Reset for CSS changes – Still need a better way to do this! */
-			$('body, strong').removeAttr('class');
+			$('.grow-conditions-info').removeClass('collapse');
+            $('.grow-conditions-info').removeClass('multi-collapse');
 		}
 	};
 	
