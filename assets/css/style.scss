@@ -148,7 +148,14 @@ nav .nav-item .nav-link {
 
 
 /* IMAGES */
-
+.full-width-img {
+    width: 100%;
+    height: 300px;
+    overflow:hidden;
+}
+.full-width-img {
+    margin-top:-100px;
+}
 /* IMAGES - END */
 
 /* BUTTONS */
