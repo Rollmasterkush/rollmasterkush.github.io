@@ -18,8 +18,8 @@
 		/* Set the matchMedia */
 		if (window.matchMedia('(max-width: 768px)').matches) {
 		/* Changes when we reach the max-width  */
-			$('.grow-conditions-info').addClass('.collapse');
-			$('.grow-conditions-info').addClass('.multi-collapse');
+			$('.grow-conditions-info').addClass('collapse');
+			$('.grow-conditions-info').addClass('multi-collapse');
 
 		} else {
 		/* Reset for CSS changes – Still need a better way to do this! */
