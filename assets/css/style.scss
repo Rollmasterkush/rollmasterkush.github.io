@@ -221,16 +221,22 @@ nav .nav-item .nav-link {
     text-decoration: none;
 }
 .keyword-item {
-    display:inline-block;
-    background: #70dc70;
-    border-radius: 5px;
-    margin: 10px;
-    padding: 5px 8px;
-    color: #fff;
-    font-size: 0.9em;
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.25);
-    box-shadow: 1px 1px 1px rgba(50,50,50,0.55);
-    user-select:none;
+    color: #228b22;
+    display: inline-block;
+    margin: 5px;
+    padding: 1px 2px;
+    font-size: 0.75rem;
+    user-select: none;
+}
+.grow-log-item {
+    margin:50px 20px;
+}
+.grow-log-item h3 a {
+    text-decoration: none;
+}
+.grow-log-item h3 a:active,
+.grow-log-item h3 a:hover {
+    color: #31c831;
 }
 
 
@@ -245,7 +251,6 @@ nav .nav-item .nav-link {
     right:5%;
     position:absolute;
     z-index:-10;
-    /* font-family: 'Pacifico', cursive; */
     font-family: 'Satisfy', cursive;
     font-size: 15rem;
 }
