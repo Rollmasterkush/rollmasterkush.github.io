@@ -193,7 +193,7 @@ nav .nav-item .nav-link {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0,0,0,0.5); 
+    background-color: rgba(0,0,0,0.25); 
     z-index: 2;
 }
 .landing-carousel .carousel-inner .carousel-item img {
@@ -453,11 +453,6 @@ footer .site-copyright {
     }
     .p-center {
     padding:20px 100px;
-    }
-    .landing-carousel .carousel-inner .carousel-item {
-    height: auto;
-    max-width: 100%;
-    padding: 30%;
     }
     .landing-carousel .carousel-caption {
     font-size:0.95rem;
