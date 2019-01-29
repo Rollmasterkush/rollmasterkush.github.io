@@ -179,8 +179,13 @@ nav .nav-item .nav-link {
 }
 
 /* LANDING CAROUSEL */
+.landing-carousel .carousel-inner .carousel-item {
+    height: auto;
+    max-width: 100%;
+    padding: 30%;
+}
 .landing-carousel .carousel-inner img {
-    height: 50vh;
+    height: auto;
 }
 .landing-carousel .carousel-caption {
     position: absolute;
@@ -194,6 +199,7 @@ nav .nav-item .nav-link {
     color: #fff;
     text-align: center;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.25);
+    font-size:0.55rem;
 }
 .landing-carousel .carousel-caption .caption-block hr {
     border-top: 2px solid #fff;
@@ -274,7 +280,7 @@ nav .nav-item .nav-link {
     position:absolute;
     z-index:-10;
     font-family: 'Satisfy', cursive;
-    font-size: 15rem;
+    font-size: 10rem;
 }
 .text-quote {
     color: #42d142;
@@ -332,6 +338,7 @@ nav .nav-item .nav-link {
 }
 .blog-preview-title {
     display:inline-block;
+    font-size:1.05rem;
 }
 .blog-preview-date {
     float:right;
@@ -408,9 +415,6 @@ footer .site-copyright {
 /* ------------- */
     /* landscape smartphones & up */
 @media all and (min-width: 29.5em){
-    .landing-carousel .carousel-inner img {
-    height: 100vh;
-    }
     .blog-preview-box {
     width: 70%;
     }
@@ -434,10 +438,19 @@ footer .site-copyright {
     .p-center {
     padding:20px 100px;
     }
+    .landing-carousel .carousel-caption {
+    font-size:0.95rem;
+}
     .grow-log-preview, 
      .grow-log-preview img {
     height: 225px;
     width: 175px;
+    }
+    .text-fade-bg {
+    font-size: 15rem;
+    }
+    .blog-preview-title {
+    font-size:1.25rem;
     }
     footer {
     height: 300px;
@@ -446,9 +459,6 @@ footer .site-copyright {
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
-    nav {
-        height: 50px;
-    }
     .row-adjust {
     margin-top: 175px;
     }
