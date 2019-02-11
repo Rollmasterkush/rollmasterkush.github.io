@@ -180,7 +180,7 @@ nav .nav-item .nav-link {
 
 /* LANDING CAROUSEL */
 .landing-carousel .carousel-inner .carousel-item {
-    height: auto;
+    height: 90vh;
     max-width: 100%;
     padding: 30%;
 }
@@ -204,6 +204,7 @@ nav .nav-item .nav-link {
     height: auto;
 }
 .landing-carousel .carousel-caption {
+    display:none;
     position: absolute;
     width: 200px;
     right: 15%;
@@ -456,7 +457,8 @@ footer .site-copyright {
     }
     .landing-carousel .carousel-caption {
     font-size:0.95rem;
-}
+    display:block;
+    }
     .grow-log-preview, 
      .grow-log-preview img {
     height: 225px;
@@ -477,6 +479,9 @@ footer .site-copyright {
 @media all and (min-width: 60.5em) {
     .row-adjust {
     margin-top: 175px;
+    }
+    .full-width-img {
+    height: 500px;
     }
     footer .site-copyright {
     position:absolute;
