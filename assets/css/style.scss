@@ -58,14 +58,17 @@ body {
     height: auto;
     width: 500px;
     position:absolute;
-    top: 200px;
+    top: 20px;
     bottom:0;
     left:auto;
-    right:100px;
+    right:10px;
     margin:0;
     z-index:10;
     color:#fff;
 }
+.landing-bg h3 {
+    font-size: 1.75rem;
+    }
 .clip-box-left, .clip-box-right {
     background: linear-gradient(to top,#279f27,#42d142);
     height: 400px;
@@ -180,7 +183,7 @@ nav .nav-item .nav-link {
 
 /* LANDING CAROUSEL */
 .landing-carousel .carousel-inner .carousel-item {
-    height: 90vh;
+    height: 40vh;
     max-width: 100%;
     padding: 30%;
 }
@@ -454,6 +457,13 @@ footer .site-copyright {
     }
     .p-center {
     padding:20px 100px;
+    }
+    .landing-bg {
+    top: 200px;
+    right:100px;
+    }
+    .landing-bg h3 {
+    font-size: 1.75rem;
     }
     .landing-carousel .carousel-caption {
     font-size:0.95rem;
