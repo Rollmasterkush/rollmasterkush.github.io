@@ -236,7 +236,7 @@ a.btn.btn-beta {
   top: 20%;
   bottom: 0;
   margin: 0 auto;
-  z-index: 9;
+  z-index: 9999;
   width: 70%;
   height: 40%;
   display: table;
@@ -259,7 +259,7 @@ a.btn.btn-beta {
   z-index: 3;
 }
 .box .box-left {
-  background: url(http://uiclients.com/thinc/assets/images/block-bg-2.jpg) 50% 50%;
+  background: #3d3d3d 50% 50%;
   background-size: cover;
   color: #fff;
 }
