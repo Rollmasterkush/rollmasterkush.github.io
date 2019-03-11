@@ -188,7 +188,7 @@ nav .nav-item .nav-link {
 
 /* AGE VERIFICATION POP UP */
 a.btn {
-  background-color: #54a984;
+  background-color: #27a027;
   color: #fff;
   text-decoration: none;
   display: inline-block;
@@ -196,7 +196,7 @@ a.btn {
   padding: 0.5em 0em;
 }
 a.btn.btn-beta {
-  background-color: #e36e3a;
+  background-color: #ffae1a;
 }
 .decor-line {
   position: relative;
@@ -220,7 +220,7 @@ a.btn.btn-beta {
   font-weight: 900;
 }
 .overlay-verify {
-  background: rgba(0,0,0,0.85);
+  background: rgba(0,0,0,0.975);
   position: fixed;
   height: 100%;
   width: 100%;
@@ -258,6 +258,7 @@ a.btn.btn-beta {
 .box .box-left p, .box .box-right p {
   position: relative;
   z-index: 3;
+  padding-top:15px;
 }
 .box .box-left {
   background: #3d3d3d 50% 50%;
@@ -282,12 +283,11 @@ a.btn.btn-beta {
 .box .box-right {
   text-align: center;
 }
-.box .box-right h3 {
+.box .box-right h4 {
   color: #555;
-  text-transform: uppercase;
   letter-spacing: 0.07em;
   border-bottom: 1px solid #eee;
-  padding-bottom: 1em;
+  padding-bottom: 10px;
   margin: 0 auto;
 }
 .box .box-right p {
