@@ -43,18 +43,18 @@ jQuery(document).ready(function($){
 
 if (sessionStorage.getItem('advertOnce') !== 'true') {
 //sessionStorage.setItem('advertOnce','true');
-  $('.box','.overlay-verify').show();
+  $('.box, .overlay-verify').show();
 }else{
-  $('.box','.overlay-verify').hide();
+  $('.box, .overlay-verify').hide();
 }
  
 $('#refresh-page').on('click',function(){
-$('.box','.overlay-verify').hide();
+$('.box, .overlay-verify').hide();
 sessionStorage.setItem('advertOnce','true');
 });
   
 $('#reset-session').on('click',function(){
-$('.box','.overlay-verify').show();
+$('.box, .overlay-verify').show();
 sessionStorage.setItem('advertOnce','');
 });
  
