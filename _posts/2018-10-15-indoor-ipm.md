@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Fundamentals of Indoor Integrated Pest Management"
-date:   2018-10-15
+date:   "2018-10-15 15:12:11 -0400"
 categories: [October2018]
 ---
 
