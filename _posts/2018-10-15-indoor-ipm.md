@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: post
 title:  "Effective Indoor IPM Practices"
 date:   2018-10-15 23:35:25 -0600
 categories: October
 ---
+
+# Effective Indoor IPM Practices
+
+* Defoliating in Veg
+* Regular Spraying of OMRI-listed Products
+* Upskirting & Defoliating in Flower
+* Utilizing a Suit
+* Sanitize Grow Space
 
 
 #### Introduction
