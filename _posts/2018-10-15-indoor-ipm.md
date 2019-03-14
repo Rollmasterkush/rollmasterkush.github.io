@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Effective Indoor IPM Practices"
-date:   2018-10-15 23:35:25 -0600
-categories: October
+title:  "The Fundamentals of Indoor Integrated Pest Management"
+date:   10-15-2018
+categories: [October2018]
 ---
 
-# Effective Indoor IPM Practices
 
 * Defoliating in Veg
 * Regular Spraying of OMRI-listed Products
