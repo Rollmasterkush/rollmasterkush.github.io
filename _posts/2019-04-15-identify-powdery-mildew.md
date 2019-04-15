@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Identifying Powdery Mildew on Cannabis"
-date:   "2018-10-15 15:12:11 -0400"
-categories: [October2018]
+date:   "2019-04-15 15:12:11 -0400"
+categories: [April2019]
 ---
 
 
