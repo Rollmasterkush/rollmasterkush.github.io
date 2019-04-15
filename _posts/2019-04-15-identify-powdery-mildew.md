@@ -16,7 +16,7 @@ categories: [April2019]
 #### Introduction
 Powdery mildew is a common, widespread, and easily recognizable plant disease. There is a range of different powdery mildews affecting many different kinds of plants from ornamentals, to vegetables, and even fruit trees. According to Laura Pottorff a former plant pathologist and horticulturalist, “In Colorado, powdery mildews are common on lilac, grape, roses, turfgrass, and vegetables”. This means that powdery mildew can be found naturally outside and can be tracked into outdoor grow areas and inside into indoor facilities in the state of Colorado. By no means is powdery mildew unique to Colorado, but my focus is on my current state of residence. There are several types of species of powdery mildew, but only a few that are known to infect the Cannabis plant. 
 
-![Early Powdery Mildew]({{"../assets/early-powdery-mildew.jpg" | relative_url}}){:class="post-lg-2"}
+![Early Powdery Mildew]({{"../assets/img/early-powdery-mildew.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Early stages of Powdery mildew on a cannabis leaf. Image taken by RMK. 
 </div>
@@ -30,7 +30,7 @@ Powdery Mildew is a fungi that can be described as white spots or patches that g
 
 The fungal structure continues to build and expand upon itself until it grows from white to yellow and even black in extreme stages of powdery mildew, but this is uncommon. Typically, a fuzzy white structure can be observed on the topside of leaves that will engulf the leaves if left unattended. Depending on the progression of the disease, powdery mildew can also affect buds negatively and can cause infected leaves to grow distorted and turn yellow. 
 
-![Fungal Huastorium]({{"../assets/fungal-haustorium.png" | relative_url}}){:class="post-lg-2"}
+![Fungal Huastorium]({{"../assets/img/fungal-haustorium.png" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Illustration of Haustorium growing within a plant cell. Image credit to Ralf T. Voegele at the Institute of Phytomedicine (2009).
 </div>
@@ -40,7 +40,7 @@ Powdery mildews are severe in warm, dry climates (Pottorff, 2013). This means th
 
 In optimal conditions, powdery mildew will have an average 4-7 day post-inoculation (dpi) window where it remains invisible as it builds its network within the plant host. This means that the symptoms won’t be visible to the naked eye as the powdery mildew infects its host until several days have passed. There have been studies conducted on a close cousin to cannabis, Humulus lupulus otherwise known as hops which has demonstrated various incubation periods for the powdery mildew strain P. macularis (Medicinal Genomics, 2018). The relationship between humulus lupulus and cannabis sativa has been well established among the scientific community. The cannabaceae is a family of dicotledonous plants including both genera: humulus and cannabis. 
 
-![Cannabaceae Family]({{"../assets/cannabaceae-family.png" | relative_url}}){:class="post-lg-2"}
+![Cannabaceae Family]({{"../assets/img/cannabaceae-family.png" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Diagram of Cannabaceae Family. Image by Song B. (2001).
 </div>
@@ -50,7 +50,7 @@ More recent microbiome analyses of cannabis reveals the presence of the Golovino
 #### Cultural Controls
 There are many plants that have been developed to form a resistance or tolerance to powdery mildew, and cannabis is no different. Certain strains are certainly more susceptible to powdery mildew than other strains and through excessive propagation it is possible to break down the plant’s natural defenses over time. As part of an integrated pest management program, the careful selection of cannabis strains that are more resilient to pest and disease is crucial to the success of the garden. 
 
-![Late Powdery Mildew]({{"../assets/late-powdery-mildew.jpg" | relative_url}}){:class="post-lg-2"}
+![Late Powdery Mildew]({{"../assets/img/late-powdery-mildew.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Later stages of Powdery mildew growth on a cannabis plant in early flower stage. Image taken by RMK. 
 </div>
