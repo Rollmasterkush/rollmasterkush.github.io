@@ -8,6 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: david_rmkush
 
+# Google Analytics
+google_analytics: UA-138698292-1
+
 # Build settings
 markdown: kramdown
 theme: minima
