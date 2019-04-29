@@ -17,7 +17,7 @@ The plant growth hormones in question are known as <b>auxins</b>. Auxins are res
 #### Topping Step-by-Step
 Topping or the removal of the top terminal shoot is typically done in the second week of the vegetative phase and again in the fourth or fifth week of the vegetative phase to maximize number of tops. Ultimately, how and when you top your plant is up to you as long as you cut at the right place on your plant and in the right phase. 
 
-![Topped Cannabis Plant 6]({{"../assets/img/[topping-plant-6.jpg" | relative_url}}){:class="post-lg-2"}
+![Topped Cannabis Plant 6]({{"../assets/img/topping-plant-6.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Picture of a small vegetative plant grown in Grodan rockwool delta cube. Image taken by RMK. 
 </div>
