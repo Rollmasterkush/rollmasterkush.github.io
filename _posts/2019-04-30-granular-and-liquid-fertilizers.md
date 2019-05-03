@@ -35,12 +35,12 @@ Picture of General Hydroponics Flora Series liquid nutrients. Image taken by RMK
 #### Factors To Consider
 Overall, there are several factors to consider when choosing between liquid and granular fertilizers such as nutrient mobility, salt content, blending, cost, storage, and application methods.
 
-*Nutrient Mobility: phosphorus is less mobile and cannot move closer to the root system than the individual granule that contains it. Liquid form may be preferred. 
-*Salt Content: since liquid fertilizers are heavily diluted with water, they are easier to mix and feed plants without burning them with excessively high salt content. 
-*Blending: granular fertilizers are more difficult to blend than liquid fertilizers. 
-*Cost: granular fertilizers can be cheaper to operate on than liquid fertilizers using cost-per-gallon feed calculations. 
-*Storage: granular fertilizers are easier to store, they do not settle out over time or salt out in cold weather. 
-*Application: even though liquid fertilizers can be applied through a foliar application and granular fertilizers cannot, granular fertilizers are most efficient for heavy pre-plant applications such as microbes for transplants.
+* Nutrient Mobility: phosphorus is less mobile and cannot move closer to the root system than the individual granule that contains it. Liquid form may be preferred. 
+* Salt Content: since liquid fertilizers are heavily diluted with water, they are easier to mix and feed plants without burning them with excessively high salt content. 
+* Blending: granular fertilizers are more difficult to blend than liquid fertilizers. 
+* Cost: granular fertilizers can be cheaper to operate on than liquid fertilizers using cost-per-gallon feed calculations. 
+* Storage: granular fertilizers are easier to store, they do not settle out over time or salt out in cold weather. 
+* Application: even though liquid fertilizers can be applied through a foliar application and granular fertilizers cannot, granular fertilizers are most efficient for heavy pre-plant applications such as microbes for transplants.
 
 #### Conclusion
 There is no one-size-fits-all for providing nutrients to your plants. Many gardeners and cannabis growers use a combination of both types of fertilizers. Granular fertilizers can be effective at supplying nutrients long-term without consistent re-application and liquid fertilizers can be mixed as nutrient feed or a foliar application. According to the Michigan State University website, one type of nutrients is not recommended over the other. Instead farmers should analyze each scenario separately considering costs, application, and ease of use when making fertilizer decisions.
