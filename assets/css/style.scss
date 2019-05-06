@@ -184,6 +184,17 @@ nav .nav-item .nav-link {
     display:block;
     top:50px;
 }
+.round-btn {
+  border-radius: 50%;
+    border: 2px solid #42d142;
+    padding: 50px 20px;
+    margin: 50px auto 25px auto;
+    display: block;
+    position: relative;
+    width: 125px;
+    height: 125px;  
+}
+
 
 
 /* AGE VERIFICATION POP UP */
