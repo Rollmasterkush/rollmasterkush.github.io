@@ -30,7 +30,7 @@ This allows you to break down the rigidity of the epidermis of the plant to be a
 
 ![Leaf Structure]({{"../assets/img/Leaf-Structure.png" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-Leaf structure including plant epidermis. The epidermis is a layer of cells that not only covers the leaves, but also flowers, roots and stems of plants. It is the boundary between the plant and the external environment. Image by [Zephyris from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leaf_Structure.svg). 
+Leaf structure including plant epidermis. The epidermis is a layer of cells that not only covers the leaves, but also flowers, roots and stems of plants. It is the boundary between the plant and the external environment. Image by <a href="https://commons.wikimedia.org/wiki/File:Leaf_Structure.svg">Zephyris from Wikimedia Commons</a>. 
 </div>
 
 The younger, newer growth is preferred to work with which is why it is crucial to supercrop your plants after trellis at the early flower stage because the stems will harden over time. I recommend starting on a branch you do not mind messing up on until you become more comfortable with this method. If you happen to make a mistake you can always use plant tie to secure the branch back together. After immediately supercropping your cannabis plants you will notice that they seem unsupported besides the support of the trellis. 
