@@ -21,7 +21,7 @@ The supercropping method must be applied properly. There are many individuals wh
 #### Pinching & Twisting
 My preferred variation of the supercropping method is to slightly pinch & twist the stem in opposing directions with both the thumb and index finger of both hands. You may hear a faint popping noise which is good. Follow along the same stem and twist at a few different sections. 
 
-![Pinching and Twisting]({{"../assets/img/pinching-twisting.jpg" | relative_url}}){:class="post-lg-2"}
+![Pinching and Twisting]({{"../assets/img/Pinching-Twisting.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Image of me pinching and twisting a young cannabis branch underneath the trellis. This plant is a Tangerine Kush which stretches tall. The canopy height is now maintained more evenly and the canopy is more spread out as a result of supercropping. Image by RMK.
 </div>
