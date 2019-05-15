@@ -1,11 +1,11 @@
 
 title: Rolling Mountain Kush
-email: rollingmountainkush@gmail.com
+email: rollingmasterkush@gmail.com
 
 description: > # this means to ignore newlines until "baseurl:"
   Cannabis lifestyle and horticulture website residing in Colorado
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https:/www.rollingmountainkush.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: david_rmkush
 
 # Google Analytics
@@ -19,3 +19,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+talkyard_server_url: https://comments-for-rollingmountainkush-com.talkyard.net
+talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
