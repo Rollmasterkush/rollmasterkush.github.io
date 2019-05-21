@@ -5,10 +5,10 @@ date:   "2019-05-20 15:12:11 -0400"
 categories: [May2019]
 ---
 
-   *Short-day Plants
-   *Photoperiodism
-   *Vegetative Light Schedules
-   *Flower Light Schedule 
+*Short-day Plants
+*Photoperiodism
+*Vegetative Light Schedules
+*Flower Light Schedule 
 
 #### Short-day Plants
 In order to understand how the photoperiod affects the cannabis plant and how it can be manipulated, we should first examine how outdoor cannabis plants are affecting by the photoperiod. Outdoor cannabis plants (photoperiod) generally enter their flowering stage towards the end of the summer season and continue flowering towards the end of the fall season typically with the exception being autoflowering cannabis plants. The change from the vegetative stage to the flower stage comes from seasonal variations that cause the daylight to decrease as the season progresses. This change signals the cannabis plant to start the flowering stage. The plants will typically grow vertically for the first 3 weeks in a process known as <b>photomorphogenesis</b> before focusing all of its energy on producing buds to ultimately attract pollen (Andrej, 2012). Photomorphogenesis is different from <b>phototropism</b>, which is a process responsible for informing plants where the light source is directed from causing them to lean in that direction and causes plants to stretch if they are too far from the plant canopy. (Andrej, 2012).
