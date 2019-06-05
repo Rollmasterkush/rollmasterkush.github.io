@@ -6,7 +6,6 @@ categories: [June2019]
 ---
 
 
-* What are floating seeds?
 * Why Float Cannabis Seeds?
 * Floating Cannabis Seeds
 
@@ -37,6 +36,13 @@ A Tesseract cannabis seed with a taproot popping out is being placed standing up
 </div>
 
 Within 24 hours these seeds had a success rate of 100% with all seeds showing tap roots and being placed into a different set of 8oz paper cups that were full of presoaked promix. The promix was only immediately presoaked using filtered water with ~7pH. The cannabis seeds were placed with taproots sideways or with the seed hull standing upright and the taproot pointing downwards about ½ to 1” inch deep into the promix growing medium. 
+
+![Cannabis Seeds Sprouting]({{"../assets/img/cannabis-seeds-sprouting.jpeg" | relative_url}}){:class="post-lg-2"}
+<div class="text-center blog-caption">
+The small cups holding the seedlings are separated to easily identify several different strains in the large white tray. Image taken by RMK.
+</div>
+
+After a total of four days since the cannabis germination started a majority of the cannabis seedling should begin to sprout from the surface of the growing medium. 
 
 In conclusion, floating cannabis seeds can be beneficial for cannabis seed propagation for several reasons. Finding viable seeds and ensuring a higher success rate of germination, even if it may take longer for some seeds, are two main reasons why a cannabis grower may want to try floating cannabis seeds as a means of propagation instead of other methods which are also perfectly acceptable. 
 
