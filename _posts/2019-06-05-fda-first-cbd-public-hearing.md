@@ -15,7 +15,7 @@ The Food and Drug Administration (FDA) held its first public hearing on May 31, 
 
 ![Cannabidiol]({{"../assets/img/cbd-from-cannabis.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-Cannabidiol is commonly referred to as CBD and is derived from the cannabis plant. Image from [Cytis at Pixabay](https://pixabay.com/users/cytis-1661754/).
+Cannabidiol is commonly referred to as CBD and is derived from the cannabis plant. Image from <a href="https://pixabay.com/users/cytis-1661754/">Cytis at Pixabay</a>.
 </div>
 
 #### Current FDA Ban on CBD
@@ -29,7 +29,7 @@ CBD alone is a burgeoning industry that analysts project could be worth as much 
 
 ![Cannabidiol-based Ice Cream]({{"../assets/img/ben-jerry-cbd-ice-cream.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-Ben & Jerry’s CBD Statement. Image from [Ben & Jerry’s website](https://www.benjerry.com/whats-new/2019/05/cbd-statement). 
+Ben & Jerry’s CBD Statement. Image from <a href="https://www.benjerry.com/whats-new/2019/05/cbd-statement">Ben &amp; Jerry’s website</a>. 
 </div>
 
 While many disagreed about how stringent the rules should be, they did agree that the FDA is playing catch up with regulating the substance to ensure consumers are provided with a product that is accurately advertised. This hearing will only help officials determine how to regulate CBD products. Any decisions on how to act and regulate the substance will only come later from the FDA, but as of June 2019 there has not been a timeline set.
