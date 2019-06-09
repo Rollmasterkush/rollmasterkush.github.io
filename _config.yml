@@ -26,4 +26,4 @@ talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%b %d, %y"
