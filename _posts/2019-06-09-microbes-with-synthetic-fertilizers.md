@@ -15,7 +15,7 @@ categories: [June2019]
 #### What Are Microbes? 
 The use of inorganic or synthetic fertilizers is common among indoor cannabis cultivators, but it is not enough to apply nutrients to cannabis plants. Synthetic fertilizers are manufactured inorganic compounds including Ammonium Nitrate, Ammonium Phosphate, and Potassium Sulfate (Penhallegon, 2019). These sorts of fertilizers add nutrients to the grow medium, but unlike organic fertilizers, they do not provide organic matter to the grow medium for microbes. Microbes live within the grow medium whether its comprised of hydroponic or soil and live symbiotically with the cannabis plant to provide numerous benefits. It is possible to use synthetic fertilizers with mycorrhizal inoculant products as long as phosphorus levels are relatively low as the mycorrhizae colony builds up which can take weeks. In fact, soil microbes are so common that, “There are more microbes in a teaspoon of soil than there are people on the earth. Soils contain about 8 to 15 tons of bacteria, fungi, protozoa, nematodes, earthworms, and arthropods" (Hoorman, 2010).
 
-![Mycorrhizae Under Microscope]({{"../assets/img/mycorrhizae-microscope.jpg" | relative_url}}){:class="post-lg-2"}
+![Mycorrhizae Under Microscope]({{"../assets/img/mycorrhiza-microscope.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Image of Arbuscular mycorrhizae under a microscope. Arbuscular mycorrhizae is synonymous with endomycorrhizae which is preferred by cannabis. <a href="https://commons.wikimedia.org/wiki/File:Arbuscular_mycorrhiza_microscope.jpg">Image by MS Turmel from the University of Manitoba.</a>
 </div>
