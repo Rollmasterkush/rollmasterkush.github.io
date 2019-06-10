@@ -5,6 +5,9 @@ date:   "2019-06-09 15:12:11 -0400"
 categories: [June2019]
 ---
 
+<style>.blog-post-content{display:none}</style>
+
+{{ page.date | date: '%B %d, %Y' }}
 
 * What Are Microbes?
 * Benefits of Microbes
