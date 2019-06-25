@@ -8,10 +8,10 @@ categories: [June2019]
 
 * What Are Terpenes?
 * Common Cannabis Terpenes
- ... Limonene
- ... Myrcene
- ... Linalool
- ... alpha-Pinene & beta-Pinene
+... Limonene
+... Myrcene
+... Linalool
+... alpha-Pinene & beta-Pinene
 * Entourage Effect
 * Use of Cannabis Terpenes
 
