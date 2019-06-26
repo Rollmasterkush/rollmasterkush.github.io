@@ -40,7 +40,7 @@ When transporting compressed gas cylinders you should never store a charged cyli
 
 Compressed gas cylinders generally require the installation of a valve which is considered the most vulnerable part of a compressed gas cylinder. The valve allows the cylinder to contain gases and allows gas to be filled into or emptied from the cylinder. Open valves slowly by hand to avoid any potential dangers and leave the valve in a position so that the flow of gas can be stopped immediately in an emergency. Using a controller or sensor to monitor CO2 levels and control the flow of CO2 is crucial to accurately apply additional CO2 to your garden without risk. If a controller or sensor is not used, then you have to calculate the volume of your grow space and multiply that number by the amount of CO2 needed in cubic feet. From there you can determine how you will setup your timer settings. There are online CO2 flow rate calculators that will do this work for you and one great example that I use is [Hydrofarm’s CO2 Flow Rate Calculator](https://www.hydrofarm.com/resources/co2calc) which works great and is simple to use all that you have to do is find out the volume of your grow space in feet. 
 
-![Terpene Limonene]({{"../assets/img/lemon-water-limonene.jpg" | relative_url}}){:class="post-lg-2"}
+![Flow Rate Calculator]({{"../assets/img/flow-rate-calculator.PNG" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 [Hydrofarm’s online CO2 Flow Rate Calculator](https://www.hydrofarm.com/resources/co2calc) is great and simple to use. It makes it easier to calculate the flow rate and time duration for timer settings. Most importantly is that it is accurate. I personally use this calculator because I use CO2 in my grow tent at home. 
 </div>
