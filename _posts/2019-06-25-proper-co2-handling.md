@@ -42,7 +42,7 @@ Compressed gas cylinders generally require the installation of a valve which is 
 
 ![Flow Rate Calculator]({{"../assets/img/flow-rate-calculator.PNG" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-[Hydrofarm’s online CO2 Flow Rate Calculator](https://www.hydrofarm.com/resources/co2calc) is great and simple to use. It makes it easier to calculate the flow rate and time duration for timer settings. Most importantly is that it is accurate. I personally use this calculator because I use CO2 in my grow tent at home. 
+<a href="https://www.hydrofarm.com/resources/co2calc">Hydrofarm’s online CO2 Flow Rate Calculator</a> is great and simple to use. It makes it easier to calculate the flow rate and time duration for timer settings. Most importantly is that it is accurate. I personally use this calculator because I use CO2 in my grow tent at home. 
 </div>
 
 #### Commercial Cultivation with Green CO2
