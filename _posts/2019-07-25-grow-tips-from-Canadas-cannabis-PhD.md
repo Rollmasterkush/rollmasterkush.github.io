@@ -17,14 +17,17 @@ In January 2019 Flowr Corporation, a Canadian Licensed Producer of cannabis and 
 
 #### Proven Grow Tips
 1. Over-Fertilization in Late Flower 
+
      Over-fertilization of your cannabis plants in the late flower stage may decrease cannabinoid production, but may also increase yield. 
 
 2. Grow Mediums Matter
+
    In the vegetative stage, a wider range of grow mediums will work fine. In the flower stage, grow mediums work best for cannabis if well aerated and highly porous. This means that your substrate will retain less moisture after irrigation, allowing the cannabis plant’s roots to obtain oxygen. Coconut coir is an environmentally sustainable growing medium that is popular and works exceptionally well for cannabis as long as it is sourced correctly.
 
 ![Potting Young Cannabis Seedlings]({{"../assets/img/potting-plants.jpg" | relative_url}}){:class="post-lg-2"}
 
 3. Drought Stress
+
      Let your plants wilt slightly in late flower especially around week 7 to increase cannabinoids and terpenoids. You might worry that cutting back on the water would limit your plant's growth, But Dr. Caplan found that a little water stress during the flowering stage doesn't affect your overall yield when you harvest. Water stress also goes by drought stress and is a slight water deprivation that can improve overall potency of cannabis buds. Do not let your plants dry out and die though! There is a difference between allowing the substrate to dry out and letting the plant dry out. Each strain will deal with different levels of drought stress differently. 
 
 <div class="text-center blog-quote">
@@ -32,6 +35,7 @@ In January 2019 Flowr Corporation, a Canadian Licensed Producer of cannabis and 
 </div>
 
 4. Cutting Leaf Tips Off Clones
+
    When cloning cannabis plants, it has been common practice for some growers to cut the tips off of the leaves of clone cuttings prior to placing into a cube. According to research conducted on the Wappa strain of cannabis, removing leaf tips reduced the rooting success rate from 71% to 53% without influencing root quality overall (2). This point is still controversial and needs further research into whether you should or should not cut the leaf tips off of cuttings for cloning propagation. 
 
 #### Resources
