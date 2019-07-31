@@ -52,41 +52,41 @@ There are several plant enzyme products that work well for cannabis, you may hav
   </tr>
 <tr>
     <th>Hygrozyme</th>
-    <th>4L for $114t</th>
+    <th>4L for $114</th>
     <th>1,000U/mL Cellulase
 100U/mL Xylanase 
 40U/mL Beta-Glucanase
 75U/mL Hemicellulase</th>
     <th>2-6mL/gal</th>
-    <th><a href=”http://bwgs.blob.core.windows.net/docs/SDS%20Hygrozyme.pdf”>Hygrozyme SDS</a></th>
+    <th>[Hyogrozyme SDS](http://bwgs.blob.core.windows.net/docs/SDS%20Hygrozyme.pdf)</th>
   </tr>
 <tr>
     <th>Hesi PowerZyme</th>
     <th>1L for $23</th>
     <th>Protease and Glycerin</th>
     <th>20mL/10L</th>
-    <th><a href=”https://www.i-c-t.us/wp-content/uploads/POWERZYME-MSDS.pdf”>PowerZyme SDS</a></th>
+    <th>[PowerZyme SDS](https://www.i-c-t.us/wp-content/uploads/POWERZYME-MSDS.pdf)</th>
   </tr>
 <tr>
     <th>SLF-100</th>
     <th>1 gallon for $134</th>
     <th>No Listed Ingredients</th>
     <th>2.5mL/gal - 5mL/gal</th>
-    <th><a href=”https://vitallandscaping.com/wp-content/uploads/2018/11/SLF-100-MSDS.pdf”>SLF-100 SDS</a></th>
+    <th>[SLF-100 SDS](https://vitallandscaping.com/wp-content/uploads/2018/11/SLF-100-MSDS.pdf)</th>
   </tr>
 <tr>
     <th>EnzymesKomplete Natural Cleaner</th>
     <th> 4L for $88</th>
     <th>No Listed Ingredients</th>
     <th>6-8mL/gal</th>
-    <th>no available SDS file</th>
+    <th>not available</th>
   </tr>
 <tr>
     <th>Dyna-Gro Dyna-Zyme</th>
     <th>1 gallon for $83</th>
     <th>No Listed Ingredients</th>
     <th>1tsp/gal</th>
-    <th><a href=”https://dyna-gro.com/wp-content/uploads/2019/04/SD_DG_Dyna-ZYME.pdf”>Dyna-Zyme SDS</a></th>
+    <th>[Dyna-Zyme SDS](https://dyna-gro.com/wp-content/uploads/2019/04/SD_DG_Dyna-ZYME.pdf)</th>
   </tr>
 <tr>
     <th>Cannazym</th>
@@ -95,7 +95,7 @@ There are several plant enzyme products that work well for cannabis, you may hav
 Soluble Potash 1%
 Available Phosphate 2%</th>
     <th>25mL/10L</th>
-    <th><a href=”http://www.shophydroponix.com/media/catalog/product/pdf/11050060/MSDS%20sheet%20EN/MSDS-%20Canna%20Cannazym.pdf”> Cannazym SDS</a></th>
+    <th>[Cannazym SDS](http://www.shophydroponix.com/media/catalog/product/pdf/11050060/MSDS%20sheet%20EN/MSDS-%20Canna%20Cannazym.pdf)</th>
   </tr>
 <tr>
     <th>Grow More Bio-Cozyme Bio-Stimulant</th>
@@ -103,7 +103,7 @@ Available Phosphate 2%</th>
     <th>Nitrogen 0.3%
 Phosphate</th>
     <th>2-4fl. oz/100gallons</th>
-    <th>no available SDS file</th>
+    <th>not available</th>
   </tr>
 </table>
 
