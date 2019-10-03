@@ -136,10 +136,16 @@ nav {
     width: 75px;
     margin-top: 15px;
 }
+.navbar-light .navbar-logo img {
+    position:absolute;
+    height: 6rem;
+    top: 0px;
+}
 .navbar-light .navbar-brand,
  .navbar-light .navbar-nav .nav-link {
     color: #2a2a2a !important;
      text-transform:uppercase;
+     text-align:center;
 }
 .navbar-light .navbar-nav .nav-item {
     font-size: 0.85rem;
@@ -665,6 +671,9 @@ footer .site-copyright {
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
+    .navbar-light .nav-link {
+        text-align:left;
+    }
     .row-adjust {
     margin-top: 175px;
     }
