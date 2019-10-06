@@ -1,70 +1,58 @@
 ---
 layout: post
-title:  "Measuring TDS and pH for Cannabis Production"
-date:   "2019-09-30 15:12:11 -0400"
-categories: [September2019]
+title:  "Colorado Cannabis Delivery Coming In 2020"
+date:   "2019-10-05 15:12:11 -0400"
+categories: [October2019]
 ---
 
 
-* Nutrient Absorption
-* Buffering with Substrates
-* Measuring Total Dissolved Solids & pH
-* Run-off Tests
+* Why Have Cannabis Delivered?
+* Pot-for-donations Scams
+* Regulated Marijuana Delivery Bill
+* What is Next? 
+* Will Doordash Take Over?
 
 
 
-#### Introduction
-Nutrition problems and proper pH balance are some of the most common causes of poor cannabis quality and loss of plant life in both residential and commercial cannabis production. Monitoring and measuring TDS and pH as well as understanding the different attributes of the substrate in use can give growers insight into a plant's health. Knowing this, it is possible to correct common issues that are damaging cannabis plants. 
+![Adult Driving Car]({{"../assets/img/adult-driving-car.jpg" | relative_url}}){:class="post-lg-2"}
 
-#### Nutrient Absorption
-Nutrients are absorbed by plants at different pH levels. The pH level can be affected by the substrate in which a cannabis plant is grown in and by the concentration of nutrients used in a solution mix. Below is a chart showing the effects of pH on nutrient availability for plants. Nutrient deficiency and toxicity symptoms can be caused by an improper substrate pH which prevents nutrients from being absorbed by the plant (1). This is because nutrients can only be absorbed by plants when the pH is balanced within a certain range. For cannabis this range will change depending on the substrate being used and the plant’s growth stage in its life cycle. Several micronutrients are more soluble at a lower pH range when the pH balance of a substrate falls below 5.5, these micronutrients can possibly be absorbed in excess which causes a nutrient toxicity issue. If the substrate pH balance rises above the optimum range, then certain nutrients may not be soluble making nutrients unavailable which causes nutrient deficiency issues. 
-
-![Nutrient Availability Chart]({{"../assets/img/ph-nutrient-availability.png" | relative_url}}){:class="post-lg-2"}
+#### Why Have Cannabis Delivered?
+The Center for Disease Control and the National Traffic Safety Association have had concerns over the legalization of cannabis due to the fact that there will be more impaired drivers on the road and that it is not as easy to test someone’s level of impairment for cannabis. Colorado Governor Jared Polis pointed out that the delivery of cannabis products can help move away from the risk of people driving while impaired. This was said during a panel on roadway safety at the National Governors Association’s 2019 Summer Meeting in Utah on the 29th of July (5). This may ease some concerns by some, but it is worth noting that the Congressional Research Service released a report titled, [“Marijuana Use and Highway Safety”](https://fas.org/sgp/crs/misc/R45719.pdf) which stated that there were lots of conflicting studies on whether cannabis had an increased risk of crash while behind the wheel with some studies finding little to no increase at all (6). Despite these conflicting studies, at the very least it can be said that it is very unlikely that the legalization of cannabis delivery will increase the risk of car crashes. Individuals also may be less likely to indulge on the road if they can have their cannabis products delivered. It is important to remember that for some individuals cannabis is a medicine and a debilitating ailment may prevent them from traveling to the store which leaves them homebound (although caregivers exist, there is a limit of one caregiver per medical patient and they have to register with the state). Cannabis delivery can open up more options in not only their transporter choice, but also the range of products from different stores. 
+ 
+![High Speed Delivery Juice]({{"../assets/img/tryhighspeed-juice.png" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-pH Effect on Nutrient Availability Chart (8). Depending on which substrate you use to grow cannabis and at what stage the plant is in its lifecycle, you will have to adjust the pH of your nutrient mix. 
+High Speed Delivery operates in New York City, Boston, and Washington D.C. for donations in which approximately $40 could get you 3.5g of cannabis (9).
 </div>
 
-If plants are given nutrients in excess and the substrate pH is balanced within the optimal range, plants may develop issues due to high TDS levels. In order to correct high TDS levels you will have to irrigate with water to the point of leaching to wash out all of the extra salts within the substrate. This is commonly known as "flushing" in the cannabis growing community. Cannabis clones prefer a more acidic pH around 5.5pH, while vegetative and flowering cannabis plants prefer a slightly acidic pH.
+#### Pot-for-donations Scams
+It is a type of business tactic in which small delivery businesses try to sell weed-related products or miscellaneous items such as juice, with the option to donate in exchange for an unspecified amount of cannabis. Billygoatgreen MMJ's owner, a delivery service that used a pot-for-donations service out in Colorado Springs, was arrested in 2013 and faced felony marijuana-distribution charges. Another illegal weed delivery service attempted to crop up in Denver, but seems to have stopped its service at the end of 2016. That service was known as Weed on Wheels 303. Their claims to be a legal weed delivery service are false. These types of services are considered scams by the former Colorado Attorney General John Suthers (currently mayor of Colorado Springs) to evade the law and are not legal under any circumstances (1).
 
-#### Measuring Total Dissolved Solids & pH
-Total dissolved solids (TDS) is a measure of organic and inorganic substances in a liquid. This can actually be measured in terms of Electrical Conductivity (EC) or Parts Per Million (PPM). EC the measure of soluble salts in a solution mix or substrate commonly used in horticulture. A high conductivity reading means there is a high number of dissolved solids in the solution. It is a popular method of determining nutrient strength in a solution. If the conductivity gets too high, your plant can display nutrient toxicity, drought, or fertilizer burn symptoms because roots are restricted from uptaking water due to excessive salts in the substrate even if it is wet. If your conductivity level is too low, then your plants may display nutrient deficiency symptoms. The same can be said for PPM readings. Liquid plant nutrients are essentially solid salts that have been dissolved into a water solution, allowing nutrients to be absorbed ionically through the roots of plants. Seedlings and clones will need less nutrients than older and larger plants, but as they grow they will need more and more nutrients. It is also true that certain cannabis strains will prefer a milder nutrient strength mix while other strains prefer a stronger mix. If you are following a nutrient chart and you need to convert EC to PPM or vice versa, then it is important to understand a few factors that affect conversions. The conversion rates are different depending on which country you live in. The United States commonly uses 0.50 for its conversion while many other countries use either 0.64 or 0.70 for conversion rates. This is why using PPM is seen as a less accurate measurement than EC. EC is considered more accurate than PPM and is preferred for scientific purposes, but PPM meters are still commonly used TDS meters for both commercial and residential cannabis production (2). The Electrical Conductivity of your nutrient solution can be measured by a EC meter which applies a small electrical voltage causing mineral ions in the solution to move. This movement is measured to get a reading. Many PPM meters display a conductivity measurement compared to a sodium chloride (NaCl) reference solution which is very close to half of its conductivity value. Other reference solutions that are available include potassium chloride (KCl) solutions and 442 solutions. These solutions are also used for calibration of the meter. This is important to know because your TDS readings can be inaccurate unless you follow the conversion rates properly when converting your TDS value or measuring TDS correctly when following a feed chart. 
+#### Regulated Marijuana Delivery Bill
+The Regulated Marijuana Delivery bill also known as HB19-1234 in Colorado's General Assembly, aims to create marijuana delivery permits for licensed marijuana centers and transporters (2). The bill was initially introduced to the Colorado House of Representatives, passed a vote, then went to the Colorado Senate for a vote which passed, therefore the bill was placed on Jared Polis' desk for signing or veto (7). Supporters of this bill were initially worried because of previous Colorado Governor John Hickenlooper vetoed a bill similar to this a couple years ago over safety concerns, but applauded the signing of the bill by Colorado Governor Jared Polis on May 29, 2019 (3). His approval of the bill was to be expected for many individuals because he has publicly claimed to be a ["champion for our thriving cannabis industry"](https://twitter.com/PolisForCO/status/999322645551181824). So far Jared Polis has been more progressive with cannabis legislation than his predecessor John Hickenlooper. 
 
-![Calibration Solutions for EC Meters]({{"../assets/img/bluelab-ec-solution.jpg" | relative_url}}){:class="post-lg-2"}
-<div class="text-center blog-caption">
-Calibration solutions for Blue Lab EC Meters.
-</div>
+![Car with Maps]({{"../assets/img/car-with-maps.jpg" | relative_url}}){:class="post-lg-2"} 
 
-It is easy to convert a ppm value based on a sodium chloride reference solution to an EC value. In order to do so you would take the ppm value and multiply it by 2 and then divide by 1000. 
+#### What is Next? 
+Now that the governor has signed the marijuana delivery bill, local government now gets to decide if they want to opt in to such a program. This means mayors, city council members, and county commissioners are deciding across the state whether they will approve of home delivery in their territory. It is likely that Denver will embrace the program, while other places like Colorado Springs will opt out since they lobbied against the measure (4). Other things these local governments will decide will be if they want to approve of deliveries to residents within their boundaries from dispensaries located outside of their jurisdiction even though deliveries will only be allowed in cities and counties that approved of medical or recreational cannabis. College campuses will remain off-limits for deliveries as explicitly stated. Under House Bill 19-1234, medical cannabis dispensaries can start home deliveries for medical marijuana patients in January 2020. Recreational shops and third-party delivery services will be able to start in January 2021. Every delivery will come with a standard $1 fee collected by the local government from which product was purchased from and individuals who ordered a delivery will be unable to order a second delivery in the same day. The Legislative Council Staff estimates that over 170 medical and retail stores will apply and be issued delivery permits over the next two years. It is estimated that 30 medical transporter permits will be issued for 2021. 
 
-500ppm * 2 = 1000 / 1000 = 1 EC
-
-It is also easy to convert approximate ppm value based on a sodium chloride reference solution, in order to do so you would multiply the EC reading by 1000, then divide by 2. 
-
-1 EC * 1000 = 1000 / 2 = 500ppm
-
-Nutrient solution total dissolved solids and pH are both commonly measured inside the growing facility. You can find devices that measure pH, ppm, or EC. Some of these devices can be a combination of ppm and EC meters or pH and ppm meters. There is also a liquid solution that can determine an approximate value for the pH of a liquid. The cost of these devices can range wildly from as low as $30 to $300+ depending on the quality and manufacturer. 
-
-#### Run-off Tests
-Run-off tests are one way of providing TDS and pH data from the substrate. It essentially samples from the entire root zone, is non-invasive, and can be used on a variety of substrates. It is important to irrigate the substrate adequately to get an accurate run-off test. Sampling from drier pots may result in greater TDS because of higher salt concentration.  Adding too much water would dilute the sample and result in a lower TDS measurement. Irrigating the crop as usual and monitor the volume of water added to minimize these sources of variation. The goal is to apply just enough filtered water to collect as close to 50 milliliters of leachate as possible. More than 70 milliliters of leachate can dilute the salt content, while less than 50 milliliters of leachate may not provide enough solution to cover the probe. Pour the run-off solution through a filter such as a coffee filter to avoid getting the substrate in the solution. Then, measure this solution to gather data on the TDS and pH levels of the substrate. Testing the substrate by sticking a sensor directly into the substrate to take readings is usually not recommended as it could burn out the probe. There are other ways to test the substrate, but this is the easiest and most common method of collecting data from the substrate. It is recommended that a grower takes five to ten run-off samples from each crop type. 
-
-![Run-off Tests]({{"../assets/img/run-off-test.jpg" | relative_url}}){:class="post-lg-2"}
-<div class="text-center blog-caption">
-Pour enough filtered water for a small amount of run-off to collect in the plant tray. Collect this run-off to test the TDS and pH levels of the substrate.
-</div>
+#### Will Doordash Take Over?
+People speculate that other delivery services such as Doordash, Uber Eats, or Grubhub will take over the cannabis delivery market. Yet evidence has shown that this has not been the case in existing markets. California is the only state that has cannabis delivery businesses that used to exist under temporary regulations through local legislation, but as of January 2019 cannabis delivery is legal throughout the state. They have hundreds of small cannabis delivery companies and a handful of tech companies that oversee purchases and deliveries through apps. Some of these apps include Eaze (https://www.eaze.com/), Nugg (https://getnugg.com/), Ganjarunner (https://ganjarunner.com/), Green Door West (https://greendoorwest.com/), and Speed Weed (https://www.speedweed.com/) as popular cannabis delivery options in California. Currently, the position of Doordash is that they will not leap on the opportunity to deliver cannabis because of complications of payment due to its high level of regulation (8). It is possible that Doordash could buy out a cannabis delivery service in the future as a way of entering the market.
 
 #### Resources
-1. <a href="https://www.canr.msu.edu/news/ph_and_ec_issues_still_a_problem_in_some_greenhouses">Getter, Kristin. (2013). "pH and EC issues still a problem in some greenhouses". Michigan State University Extension.</a>
+1. <a href="https://www.denverpost.com/2013/02/25/man-in-colorado-springs-marijuana-for-donations-bust-says-he-was-legal/">Ingold, John. (2013). “Man in Colorado Springs marijuana-for-donations bust says he was legal”. Denver Post. </a>
 
-2. <a href="https://generalhydroponics.com/tds-ec-ppm">(n.d.). “TDS EC PPM”. General Hydroponics.</a>
+2. <a href="https://leg.colorado.gov/bills/hb19-1234">(2019). Regulated Marijuana Delivery Bill, HB19-1234. Colorado General Assembly.</a>
 
-3. <a href="http://www.greenhouse.cornell.edu/crops/factsheets/pHGreenhouseCrops.pdf">Mattson, Neil. (n.d.). “Substrate pH: Getting it Right for Your Greenhouse Crops”. Cornell University Cooperative Extension.</a>
+3. <a href="http://leg.colorado.gov/sites/default/files/2019a_1234_signed.pdf">(2019). Regulated Marijuana Delivery Bill, HB19-1234 signed by Jared Polis. Colorado General Assembly.</a>
 
-4. <a href="https://www.extension.purdue.edu/extmedia/HO/HO-237-W.pdf">Camberato, Diane M., Mickelbart, Michael V., Lopez, Roberto G. (2009). “pH and Electrical Conductivity Measurements in Soilless Substrates” Purdue University. Purdue Extension. Commercial Greenhouse and Nursery Production.</a>
+4. <a href="https://www.denverpost.com/2019/05/29/marijuana-delivery-tasting-rooms-colorado/">Murray, John. (2019). “Marijuana Milestone: Colorado will allow delivery and tasting rooms soon under new laws -- but with big catches”. Denver Post.</a>
 
-5. <a href="https://blog.hannainst.com/soil">Hubbard, Allison. (2017). “The Ultimate Guide to Testing Electrical Conductivity of Soil”. Hanna Instruments.</a>
+5. <a href="https://www.c-span.org/video/?462625-1/national-governors-association-2019-summer-meeting-day-2-morning-session">(2019). “National Governors Association 2019 Summer Meeting, Day 2, Morning Session”. C-SPAN.</a>
 
-6. <a href="https://projects.ncsu.edu/project/hortsublab/pdf/PourThru_Master_HIL.pdf">Cavins, Todd J., Whipker, Brian E. (2001). “Monitoring and Managing pH and EC Using the PourThru Extraction Method”. NC State University Floriculture Research.</a>
+6. <a href="https://fas.org/sgp/crs/misc/R45719.pdf">(2019). “Marijuana Use and Highway Safety”. Congressional Research Service.</a>
 
-7. <a href="https://www.tandfonline.com/doi/citedby/10.1081/PLN-120028875?scroll=top&needAccess=true">Brandon R. Smith, Paul R. Fisher &amp; William R. Argo (2004). "Water-Soluble Fertilizer Concentration and pH of a Peat-Based Substrate Affect Growth, Nutrient Uptake, and Chlorosis of Container-Grown Seed Geraniums". Journal of Plant Nutrition, 27:3, 497-524, DOI: 10.1081/PLN-120028875</a>
+7. <a href="https://openstates.org/co/bills/2019A/HB19-1234/">(2019). “HB 19-1234 Regulated Marijuana Delivery”. Open States.</a>
 
-8. <a href="https://commons.wikimedia.org/wiki/File:Soil_pH_effect_on_nutrient_availability.svg">(2018). “pH Effect on Nutrient Availability Chart”. Wikimedia Commons - Image.</a>
+8. <a href="https://twitter.com/jenwieczner/status/1019603916546166784">Wieczner, Jen. (2018). “Will DoorDash Deliver Cannabis?”. Twitter.</a>
+
+9. <a href="https://tryhighspeed.com/product/juice-jugo-new-york-city/">(2019). “Juice - Jugo (New York City)”. High Speed Delivery.</a>
