@@ -138,8 +138,15 @@ nav {
 }
 .navbar-light .navbar-logo img {
     position:absolute;
-    height: 6rem;
+    height: 5rem;
     top: 0px;
+}
+.navbar .navbar-expand-lg .navbar-light {
+    height: 50px;
+    padding: 0px;
+}
+.navbar-nav .ml-auto {
+    height: 50px;
 }
 .navbar-light .navbar-brand,
  .navbar-light .navbar-nav .nav-link {
@@ -153,11 +160,18 @@ nav {
   border: none;
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  padding: 4px 2px;
   color: #fff;
   position: relative;
   vertical-align: middle;
   cursor:pointer;
+    height: 100%;
+}
+.navbar-light .navbar-nav .nav-item:hover,
+.navbar-light .navbar-nav .nav-item:active {
+   background: #eee;
+   color: #fff;
+    transition: background 0.5s ease;
 }
 nav .nav-item .nav-link {
   position:relative;
@@ -249,7 +263,7 @@ a.btn.btn-beta {
 }
 .box {
   background: #fff;
-  position: absolute;
+  position: relative;
   left: 0;
   right: 0;
   top: 25px;
