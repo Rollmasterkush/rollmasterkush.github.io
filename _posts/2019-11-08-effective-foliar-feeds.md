@@ -7,8 +7,8 @@ categories: [November2019]
 
 
 <ol>
-    <li></li>What Does ‘Foliar Feed’ Mean?
-<li></li>Why Foliar Feed?
+<li>What Does ‘Foliar Feed’ Mean?</li>
+<li>Why Foliar Feed?</li>
 <li>Common Foliar Feeds </li>
     <ul>
         <li>Fulvic Acid</li>
