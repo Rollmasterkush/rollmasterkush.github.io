@@ -36,7 +36,7 @@ Foliar feeds will not replace a good soil or nutrient regimen, but can provide n
 #### Common Foliar Feeds
 Certain nutrients for plants can effectively be applied as a foliar feed at certain stages of growth. Foliar feed solutions should have their pH adjusted according to the label, but when in doubt it is safe to use the same pH level that is used for nutrient soil applications. Some of the most common products used for foliar feeds include: Heavy 16 Foliar, BioAg Ful-Power, Regalia, Photosynthesis Plus, Superzyme Biological Growth Factor, ThermX-70, and General Hydroponics Armor Si. Implementing a sound foliar feed schedule is easy, applications are usually repeated at 14-day intervals or as otherwise stated on the product label.
  
-![Bio Ag Ful-Power]({{"../assets/img/ful-power.jpg" | relative_url}}){:class="post-lg-2"}
+![Bio Ag Ful-Power]({{"../assets/img/ful-power.jpg" | relative_url}}){:class="post-sm-2"}
 <div class="text-center blog-caption">
 Humic and fulvic acid product from BioAg known as Ful-Power.
 </div>
@@ -44,7 +44,7 @@ Humic and fulvic acid product from BioAg known as Ful-Power.
 ##### Fulvic Acid
 Fulvic acid can provide plants with trace minerals (such as copper, iron, manganese and zinc)  and can increase the uptake of minerals in plants. In addition to this, fulvic acid can improve a plant’s natural resistance to environmental stress. Molecules of fulvic acid are smaller than humic acid and are therefore more biologically active and faster-acting which is ideal for foliar feeds. Fulvic acid is considered one of the best ingredients for an effective foliar feed are usually come in liquid form.
 
-![General Hydroponics Diamond Nectar]({{"../assets/img/diamond-nectar.png" | relative_url}}){:class="post-lg-2"}
+![General Hydroponics Diamond Nectar]({{"../assets/img/diamond-nectar.png" | relative_url}}){:class="post-sm-2"}
 <div class="text-center blog-caption">
 General Hydroponics humic acid product known as Diamond Nectar.
 </div>
@@ -60,7 +60,7 @@ Harpin proteins product from Rx Green Technologies known as Axiom.
 ##### Harpin Proteins
 Harpin proteins act by initiating a defense response in plants when applied. This defensive response can make a plant more resistant to several different fungal and bacterial diseases. Unlike most pesticides, harpin proteins will not interact with fungal spores and bacteria directly, instead it increases a plant's Systemic Acquired Resistance (SAR). Increasing a plant's SAR is ideal because unlike pesticides it does not allow pests to develop a resistance to the substance (2). There are Harpin proteins and Harpin αβ proteins available for purchase at many hydroponic grow stores and they are similar. Harpin αβ is a protein molecule that consists of fragments from other harpin proteins. Commercial production of Harpin αβ comes from genetically modified E. coli cultivated in labs. Harpin proteins are considered safe and are non-toxic to humans as well as the environment. They are relatively new to agriculture, as harpin protein products were first registered in the United States in the year 2000 and have only been gaining in popularity among growers since. You will typically find harpin proteins in powder form in products such as Axiom. 
 
-![Marrone Bio Innovations Regalia]({{"../assets/img/regalia.jpg" | relative_url}}){:class="post-lg-2"} 
+![Marrone Bio Innovations Regalia]({{"../assets/img/regalia.jpg" | relative_url}}){:class="post-sm-2"} 
 <div class="text-center blog-caption">
 Reynoutria sachalinensis fungicide product known as Regalia by Marrone Bio Innovations.
 </div>
@@ -76,7 +76,7 @@ Plant product containing bacillus subtilis by Microbe Life Hydroponics.
 ##### Bacillus Subtilis
 B. subtilis is a soil microorganism that is found almost anywhere and contributes to nutrient cycling when biologically active because of the various enzymes it produces (3). This spore-forming bacterium can inhibit plant pathogen growth in its early stages and induce a system acquired resistance (SAR) against certain plant pathogens that affect cannabis. According to the US EPA, B. subtilis is considered non-toxic to birds and mammals. It has no adverse effects to fish, but use should be limited in outdoor setting due to potential toxicity to bees. Effects on human health are relatively benign, but can be irritating to the skin if contact is made. 
 
-![American Extracts Thermx-70]({{"../assets/img/thermx-70.jpg" | relative_url}}){:class="post-lg-2"} 
+![American Extracts Thermx-70]({{"../assets/img/thermx-70.jpg" | relative_url}}){:class="post-sm-2"} 
 <div class="text-center blog-caption">
 Natural wetting agent containing saponin by American Extracts.
 </div>
