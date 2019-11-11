@@ -550,7 +550,7 @@ a.btn.btn-beta {
         color: #3d3d3d;
         padding: 50px 10px;
 }
-.post-sm-4, .post-md-1, .post-md-2,
+.post-sm-2, .post-sm-4, .post-md-1, .post-md-2,
   .post-md-4,
   .post-lg-1, .post-lg-2 { /* all images */
     display:block;
@@ -558,7 +558,11 @@ a.btn.btn-beta {
     margin:15px auto;
     padding-top:50px;
 }
-.post-sm-4 { /* blog posts - sm - long */
+.post-sm-2 { /* blog posts - sm - portrait */
+    height: 250px;
+    width: 200px;
+}
+.post-sm-4 { /* blog posts - sm - landscape */
     height: 100px;
     width: 700px;
 }
