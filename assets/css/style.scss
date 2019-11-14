@@ -215,6 +215,9 @@ nav .nav-item .nav-link {
     height: 125px;  
     color: #42d142;
 }
+.round-btn a {
+    color: #42d142 !important;
+}
 .round-btn:hover, .round-btn:active {
     background: #42d142;
     color: #fff;
@@ -631,9 +634,25 @@ footer .site-logo {
     font-weight: 700;
     text-align: center;
 }
-footer .site-copyright {
+footer .social-footer {
     position:relative;
+    margin: 0 auto;
+    width: 250px;
+}
+footer .site-copyright {
+    position:absolute;
     font-size:0.75em;
+    bottom: 10px;
+    width: 100%;
+}
+footer .col-borders {
+    border-left: 2px solid white; 
+    border-right: 2px solid white;
+    opacity: 0.5;
+}
+footer .col-borders:hover, footer .col-borders:active {
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
 }
 
 /* ------------- */
