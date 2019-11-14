@@ -510,7 +510,7 @@ a.btn.btn-beta {
 }
 .page-heading {
     position: absolute;
-    bottom: 10px; /* top: 50px; 200px, 400px */
+    top: 50px; /* 200px, 400px */
     left: 25px;
     color: #fff;
     font-size: 4rem;
@@ -698,9 +698,9 @@ footer .col-borders {
     .p-center {
     padding:20px 100px;
     }
-    /* .page-heading {
+    .page-heading {
     top: 200px;
-    } */
+    } 
     .landing-bg {
     top: 200px;
     left: auto;
@@ -747,7 +747,7 @@ footer .col-borders {
 
 /* desktop only */
 @media all and (min-width: 69.5em) {
-    /* .page-heading {
-    top: 350px;
-    } */
+    .page-heading {
+    top: 400px;
+    } 
 }
