@@ -629,7 +629,7 @@ footer {
     
 }
 footer .site-logo {
-    font-size:3.5em;
+    font-size:3em; /* 3.5 */
     font-family: 'Satisfy';
     font-weight: 700;
     text-align: center;
@@ -639,20 +639,23 @@ footer .social-footer {
     margin: 0 auto;
     width: 250px;
 }
+footer .social-footer .fab {
+    width: 60px;
+}
 footer .site-copyright {
     position:absolute;
     font-size:0.75em;
     bottom: 10px;
     width: 100%;
 }
+footer .col-borders:hover, footer .col-borders:active { /* set pseudo-classes first in css for ease-in-out animation effect? */
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+}
 footer .col-borders {
     border-left: 2px solid white; 
     border-right: 2px solid white;
     opacity: 0.5;
-}
-footer .col-borders:hover, footer .col-borders:active {
-    opacity: 1;
-    transition: all 0.3s ease-in-out;
 }
 
 /* ------------- */
