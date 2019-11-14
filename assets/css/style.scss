@@ -508,6 +508,13 @@ a.btn.btn-beta {
     line-height:1.65;
     padding:20px;
 }
+.page-heading {
+    position: absolute;
+    bottom: 10px; /* top: 50px; 200px, 400px */
+    left: 25px;
+    color: #fff;
+    font-size: 4rem;
+}
 
 
 /* TYPOGRAPHY - END */
@@ -691,6 +698,9 @@ footer .col-borders {
     .p-center {
     padding:20px 100px;
     }
+    /* .page-heading {
+    top: 200px;
+    } */
     .landing-bg {
     top: 200px;
     left: auto;
@@ -737,5 +747,7 @@ footer .col-borders {
 
 /* desktop only */
 @media all and (min-width: 69.5em) {
-    
+    /* .page-heading {
+    top: 350px;
+    } */
 }
