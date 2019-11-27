@@ -117,6 +117,14 @@ In addition to being able to estimate electricity costs by hand, you can also us
         <td>2.208KWh x $0.055 = $0.12/day x 2 = $0.24/day</td>
     </tr>
     <tr>
+        <td>Eco Plus Air 1Plus Pump</td>
+        <td>3W</td>
+        <td>24hrs</td>
+        <td>3 ÷ 1000= 0.003KWh</td>
+        <td>0.003KWh x 24hrs = 0.072KWh</td>
+        <td>0.072KWh x $0.055 = $0.01/day</td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td></td>
