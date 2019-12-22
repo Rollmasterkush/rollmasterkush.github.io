@@ -23,7 +23,7 @@ categories: [December2019]
 There is no serious long-term harm, toxicity, or lethal overdose for the consumption of cannabis as of December 2019. With that being said, there are many different ways to consume the cannabinoids that cannabis produces. Depending on how much heat is applied to the cannabis will determine which cannabinoids will predominantly affect the brain. This is because heating up cannabis at various high temperatures will alter the cannabinoids. The main difference in how heat is applied to cannabis is through cooking and smoking. Depending on which of these methods is carried out is what determines which cannabinoids are going to be active and then absorbed by the body. 
 
  
-[Delta 9-THC]({{"../assets/img/delta-9thc.png" | relative_url}}){:class="post-sm-2"}
+![Delta 9-THC]({{"../assets/img/delta-9thc.png" | relative_url}}){:class="post-sm-2"}
 <div class="text-center blog-caption">
 Chemical structure of Delta-9THC (1). 
 </div>
@@ -31,7 +31,7 @@ Chemical structure of Delta-9THC (1).
 #### Smoking
 When cannabis is smoked or vaporized, THC and other cannabinoids go through a more direct pathway to the brain. This is why you may feel the effects within seconds or minutes after taking a hit. The fire from a lighter or the heat from a heating element heats the cannabis flower to a very high heat. This high heat converts THCa into Delta-9THC. Delta-9THC binds to receptors in the brain distorting imagination, thoughts, and perceptions. 
 
-[11-hydroxy-THC]({{"../assets/img/11-OH-THC.png" | relative_url}}){:class="post-sm-2"}
+![11-hydroxy-THC]({{"../assets/img/11-OH-THC.png" | relative_url}}){:class="post-sm-2"}
 <div class="text-center blog-caption">
 Chemical structure of 11-hydroxy-THC (2). 
 </div>
@@ -43,7 +43,7 @@ Not only will Delta-9THC contribute to the symptoms of a high, but terpenes will
 Getting high through ingestion rather than by smoking is a healthier alternative. It eliminates the carcinogens that smoking creates. On the other hand, it can be difficult to accurately dose oneself and effects can take up to two hours to feel fully. Cannabis edibles are heated to approximately 300F on average which converts THCa into Delta-9THC. Since THC is lipophilic, activated THC has to be dissolved in fat such as coconut oil or clarified butter. The onset of the high from THC edibles is delayed after ingestion as it is processed by the body. Cannabinoids from edibles are metabolized by the liver before it enters the bloodstream. During this process lots of Delta-9THC molecules become 11-OH-THC or 11-hydroxy-THC which means 11-OH-THC is a metabolite of Delta-9THC (4). This form of THC can pass the brain barrier more quickly and it is generally considered a more potent chemical. When the onset of the high sets in, the high can last anywhere from 4-8 hours which is largely dependent on the dose of THC. Eating edibles is one way to feel the effects of THC much longer than smoking cannabis. Consuming cannabis edibles can produce a high that can have different effects on users and can be much more intense which cannot be stated lightly. In a 1973 research study known as the <b>Comparative Pharmacology of Delta-9THC and its Metabolite, 11-OH-THC</b>, several men were injected with 1mg of 11-hydroxy-THC, they were then asked to rate their high on a scale of zero to ten when compared to an injection of Delta-9THC that was administered previously. Researchers from the Lilly Laboratory for Clinical Research wrote that all subjects that were administered 11-OH-THC intravenously, reported that they were experiencing much more intense physiologic and psychologic effects when compared to smoking cannabis or their injection of Delta-9THC. This is why it is important to dose lightly and slowly increase your dosage as it comfortably suits you. 
 
 
-[Homemade Seven Layers of Heaven THC]({{"../assets/img/edible-dessert.jpeg" | relative_url}}){:class="post-sm-2"}
+![Homemade Seven Layers of Heaven THC]({{"../assets/img/edible-dessert.jpeg" | relative_url}}){:class="post-sm-2"}
 <div class="text-center blog-caption">
 Homemade Seven Layers of Heaven THC Edible Dessert Baked by RMK. 
 </div>
