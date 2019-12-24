@@ -19,7 +19,7 @@ categories: [December2019]
 The use of cannabis for both medicinal and recreational purposes dates back thousands of years in various regions of the world. It is perceived as a relatively harmless drug when compared to the two most popular and legal drugs: alcohol and cigarettes. It is estimated by the National Institutes of Health (NIH) that approximately 88,000 people die from alcohol and alcohol-related causes every year, while cigarettes cause 480,000 deaths annually. This makes alcohol the third leading preventable cause of death in the United States behind tobacco use and poor lifestyle (2). The National Center for Biotechnology Information, an affiliated branch of the NIH has stated that there are no known cases of fatal overdose from cannabis. Since there is enough data to determine that billions of cannabis products are used every year, if there was even a risk of death of one-in-one-million. It would equate to a few thousand overdose deaths every year, but it this is not the case (5).
 
  
-![Secondhand Smoke]({{"../assets/img/secondhand-smoke.jpg" | relative_url}}){:class="post-sm-2"}
+![Secondhand Smoke]({{"../assets/img/secondhand-smoke.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Can secondhand cannabis smoke get you stoned?
 </div>
@@ -32,7 +32,7 @@ Individuals who come into contact with cannabis smoke or even the odor often bel
 There was a study published in May 2015 by Johns Hopkins University School of Medicine and it was published in the journal Drug and Alcohol Dependence (1).  The study conducted included seven individuals ages 18 - 45 who were regular users (smoking twice or more a week) and tested positive for THC in their system. Twelve non smoking individuals who tested negative for THC in their system were also recruited to test the effects of secondhand cannabis smoke. Six smokers and six nonsmokers were placed in a small 10ft by 13ft room for one hour with ventilation turned off. The smokers were given 10 cannabis joints each to smoke within the time frame. In another instance the same scenario was played out, but with the room's ventilation system turned on. At the end of the one hour session, nonsmokers were tested for THC through their blood, urine, saliva, and hair. All six of the nonsmokers who had spent one hour in the unventilated room had detectable amounts of THC in their blood and urine samples. The THC in the blood was observed for up to four hours after the exposure. The six nonsmokers that had spent the hour in the ventilated room did not test positive or have any detectable trace of THC in their system (1). This means that under 'extreme' conditions or in an unventilated, and enclosed space where plenty of cannabis is being consumed or burned (60 joints smoked by 6 individuals in a small room), an individual may feel a contact high or buzz from the secondhand smoke and they may test positive for THC hours after exposure, but the THC concentrations fade in less than one day. 
 
 
-![Rolling Joints]({{"../assets/img/rolling-joints.jpg" | relative_url}}){:class="post-sm-2"}
+![Rolling Joints]({{"../assets/img/rolling-joints.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Packing a grinder and rolling a joint.
 </div>
