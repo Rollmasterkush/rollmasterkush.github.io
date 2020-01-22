@@ -7,8 +7,8 @@ categories: [January2020]
 
 
 
-*What is Nutrient Mobility?
-*Symptom Expression in Cannabis
+  *What is Nutrient Mobility?
+  *Symptom Expression in Cannabis
 
 
 
