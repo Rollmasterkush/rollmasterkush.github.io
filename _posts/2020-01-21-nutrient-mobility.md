@@ -21,7 +21,7 @@ Nutrient mobility is the ability of certain elements to remobilize inside a plan
 
 
 
-![Nitrogen Mobility]({{"../assets/img/nitrogen-mobility.jpg" | relative_url}}){:class="post-sm-2"}
+![Nitrogen Mobility]({{"../assets/img/nitrogen-mobility.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Image of nitrogen deficiency symptoms appearing on older leaves. The greener leaves are closer to the top of the canopy, which appear mostly unaffected at this stage. Image by RMK.
 </div>
@@ -37,7 +37,7 @@ Symptom expression is a term used in horticulture to describe physical traits th
  
 
 
-![Nitrogen Deficiency]({{"../assets/img/nitrogen-deficiency.jpg" | relative_url}}){:class="post-sm-2"}
+![Nitrogen Deficiency]({{"../assets/img/nitrogen-deficiency.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Image showing different levels of nitrogen in a cannabis plant leaf. The left image shows normal nitrogen levels expressed in a cannabis plant leaf. The right image shows chlorosis or a yellow appearance expressed in a cannabis plant leaf. Images by RMK.
 </div>
