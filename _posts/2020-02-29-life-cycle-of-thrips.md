@@ -47,7 +47,7 @@ Western flower thrips adult on leaf tissue. Photo by Lyle Buss from the Universi
 In ideal environmental conditions, the life cycle from egg to adult may be completed in as little as two weeks as each life stage can take several days to complete. Western flower thrips are approximately 2mm (less than 1/10th of an inch) in length and characterized as having an elongated and slender black body with long and narrow colorless wings. Adult thrips resume feeding on their host plant by using their rasping mouthparts that scrapes the surface of plant leaves as its contents spill out.
 
 
-![Western Flower Thrips Larvae]({{"../assets/img/thrips-larva.jpg" | relative_url}}){:class="post-lg-2"}
+![Western Flower Thrips Larvae]({{"../assets/img/Thrips-Larva.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Western flower thrips larvae on the leaf of a small cannabis plant. Image by RMK.
 </div>
