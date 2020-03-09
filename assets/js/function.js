@@ -38,24 +38,13 @@
 
 
 
-/* Age Verification Pop up */
-jQuery(document).ready(function($){
 
-if (sessionStorage.getItem('advertOnce') !== 'true') {
-//sessionStorage.setItem('advertOnce','true');
-  $('.box, .overlay-verify').show();
-}else{
-  $('.box, .overlay-verify').hide();
+/* Scroll Indicator JS */
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
 }
- 
-$('#refresh-page').on('click',function(){
-$('.box, .overlay-verify').hide();
-sessionStorage.setItem('advertOnce','true');
-});
-  
-$('#reset-session').on('click',function(){
-$('.box, .overlay-verify').show();
-sessionStorage.setItem('advertOnce','');
-});
- 
-});
