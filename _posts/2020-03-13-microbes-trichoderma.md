@@ -19,7 +19,7 @@ Trichoderma is a fungus that can be naturally found in nearly all soils and are 
 
 
 
-![Trichoderma Spores]({{"../assets/img/trichoderma_harzianum.jpg" | relative_url}}){:class="post-lg-2"}
+![Trichoderma Spores]({{"../assets/img/Trichoderma_harzianum.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
 Trichoderma harzianum spores under a microscope. Image from the United States Department of Agriculture (1). 
 </div>
