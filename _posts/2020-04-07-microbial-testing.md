@@ -21,7 +21,8 @@ There are potential health risks for individuals who consume cannabis products c
 * Shiga-Toxin producing E. Coli (STEC) <1 CFU
 * Mold <10^4 CFU
 * Yeast <10^4 CFU
-(CFU = Colony Forming Unit)
+
+<div>(CFU = Colony Forming Unit)</div>
 
 
 Salmonella, STEC (Shiga toxin-producing E. Coli), mold, and yeast can all potentially pose adverse health risks to consumers. Symptoms from consumption of contaminated cannabis can appear as wheezing, irritated eyes or skin, and in severe cases it can cause respiratory damage. Retesting is available for any product that fails its initial microbial testing, but the retest requires two new samples be submitted for the procedure in the state of Colorado. Cannabis testing in Colorado has slowly evolved from mandatory potency testing in 2014, to pesticide testing in 2015, microbial testing in 2017, mycotoxin testing in 2019, and finally heavy metals testing in 2020. There are five state certified and ISO-accredited labs in the state of Colorado:
