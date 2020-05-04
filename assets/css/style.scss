@@ -483,7 +483,12 @@ a.btn.btn-beta {
 /* TYPOGRAPHY */
 .landing-bg .sub-title {
     position:relative;
-    top: 200px;
+    font-family: satisfy;
+    transform: rotate(-10deg);
+    display: block;
+    top: 50px;
+    font-size: 2rem;
+    left: -20px;
 }
 .text-fade-bg {
     color: rgba(20,20,20,0.15);
@@ -772,4 +777,9 @@ footer .col-borders {
     .page-heading {
     top: 400px;
     } 
+    .landing-bg .sub-title {
+    letter-spacing: -5px;
+    top:50px;
+    font-size:5rem;
+}
 }
