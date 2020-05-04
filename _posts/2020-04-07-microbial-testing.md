@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Microbial Testing Cannabis in Colorado Works"
+title:  "Microbial Testing Cannabis in Colorado"
 date:   "2020-04-07 15:12:11 -0400"
 categories: [April2020]
 ---
