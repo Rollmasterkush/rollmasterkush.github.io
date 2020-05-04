@@ -50,7 +50,7 @@ body {
     z-index:10;
     top:0;
     left:0;
-    height:100vh;
+    height:100%;
     width:100vw;
     background: transparent;
 }
@@ -711,6 +711,10 @@ footer .col-borders {
     padding:20px 60px;
     font-size:2.25rem;
     }
+    .landing-bg .sub-title {
+        top: 125px;
+        left: 75px;
+    }
 }
 
     /* portrait tablets & up */
@@ -732,8 +736,10 @@ footer .col-borders {
     top: 200px;
     left: auto;
     }
-    .landing-bg h3 {
-    font-size: 1.75rem;
+    .landing-bg .sub-title {
+        font-size: 3rem;
+        top: 0px;
+        left: 20px;
     }
     .landing-carousel .carousel-caption {
     font-size:0.95rem;
