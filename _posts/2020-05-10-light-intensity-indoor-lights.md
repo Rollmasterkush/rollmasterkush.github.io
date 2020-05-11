@@ -26,7 +26,7 @@ PAR stands for Photosynthetically Available Radiation. It is the light spectrum 
 
 ![Visible Spectrum]({{"../assets/img/visible-spectrum.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-The visible spectrum chart from the [Michigan State University](https://web.pa.msu.edu/courses/2000fall/phy232/lectures/emwaves/visible.html) website showing the various wavelengths of visible light. 
+The visible spectrum chart from the <a href="https://web.pa.msu.edu/courses/2000fall/phy232/lectures/emwaves/visible.html">Michigan State University</a> website showing the various wavelengths of visible light. 
 </div>
 
 
@@ -37,7 +37,7 @@ PPF stands for Photosynthetic Photon Flux and it measures the total amount of PA
 
 ![HLG V2 100 PPFD Test]({{"../assets/img/hlg-ppfd-test.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-HLG V2 100 PPFD Testing Chart from the [Horticulture Lighting Group](https://horticulturelightinggroup.com/products/hlg-100) website. This image shows the measured PPFD results from the HLG V2 100 light with measurements taken at various spots under the light.
+HLG V2 100 PPFD Testing Chart from the <a href="https://horticulturelightinggroup.com/products/hlg-100">Horticulture Lighting Group</a> website. This image shows the measured PPFD results from the HLG V2 100 light with measurements taken at various spots under the light.
 </div>
 
 
