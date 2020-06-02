@@ -89,11 +89,7 @@ Cannabis concentrates, specifically wax, works well when making edibles because 
 #### Infusing Cannabis with Coconut Oil
 1. Add ¼ cup of water for every 1 cup of coconut oil used and combine into a small saucepan to prevent scorching the oil. Place the small saucepan onto the stove top and turn the burner on low to melt the coconut oil. 
 
-2. Once the coconut oil has melted, add your cannabis wax to your melted oil in the saucepan. Stir slow and consistently as the wax mixes into the oil. 
-
-<div class="text-center blog-quote">
-Note: Use a thermometer to monitor the temperature of the oil throughout this process. The temperature of the oil should not exceed 240°F. 
-</div>
+2. Once the coconut oil has melted, add your cannabis wax to your melted oil in the saucepan. Stir slow and consistently as the wax mixes into the oil. <b>Note:</b> Use a thermometer to monitor the temperature of the oil throughout this process. The temperature of the oil should not exceed 240°F. 
 
 3. Heat the oil for 45 minutes to 1 hour in the saucepan stirring occasionally, with the total cooking time depending on the amount of oil being used, the amount of wax being used, and the temperature of the mixture. This is the decarbing process that is converting THCA to THC. 
 
@@ -113,9 +109,7 @@ Note: Use a thermometer to monitor the temperature of the oil throughout this pr
 </a>
 
 3. <a href="https://eiha.org/media/2014/08/16-10-25-Decarboxylation-of-THCA-to-active-THC.pdf"> Kerstin Iffland, et al. (2016). “Decarboxylation of Tetrahydrocannabinolic acid (THCA)
-to active THC”. European Industrial Hemp Association (EIHA). 
-
-</a>
+to active THC”. European Industrial Hemp Association (EIHA). </a>
 
 4. <a href="https://www.liebertpub.com/doi/pdfplus/10.1089/can.2016.0020"> Mei Wang, et al. (2016). “Decarboxylation Study of Acidic Cannabinoids: A Novel Approach Using Ultra-High-Performance Supercritical Fluid Chromatography/Photodiode Array-Mass Spectrometry”. Cannabis and Cannabinoid Research. v. 1.1, 2016. 
 </a>
