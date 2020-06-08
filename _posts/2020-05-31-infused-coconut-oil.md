@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making Coconut Oil Infused with Wax"
+title:  "Making Coconut Oil Infused with Concentrates"
 date:   "2020-05-31 15:12:11 -0400"
 categories: [May2020]
 ---
