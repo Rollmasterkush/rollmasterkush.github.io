@@ -589,6 +589,12 @@ a.btn.btn-beta {
     background-image:url(/assets/img/blog-post-cover.png); 
     background-size:cover;
 }
+.blog-post-header h2 {
+    font-size: 1.25em;
+}
+.blog-post-header h4 {
+    font-size: 1em;
+}
 .blog-caption {
         padding-bottom: 50px;
 }
@@ -768,6 +774,12 @@ footer .col-borders {
     }
     .blog-post-header {
     padding: 100px 25px;
+    }
+    .blog-post-header h2 {
+    font-size: 2em;
+    }
+.blog-post-header h4 {
+    font-size: 1.25em;
     }
 }
 
