@@ -121,9 +121,6 @@ Cold dabs, cold start dabs, or reverse dabs as they are also known as refers to 
 
 3. <a href="https://yodabbadabba.com/dabbing-resources/cold-start-dabs-reverse-dabbing/#:~:text=Cold%20start%20dabs%20%E2%80%94%20also%20known,heat%20a%20pre%2Dloaded%20nail."> (n.d.). “Cold Start Dabs: How To Do A Reverse Dab”. Yo Dabba Dabba.   </a>
 
-4. <a href="https://commons.wikimedia.org/wiki/File:CEC_concept.svg"> Kyle Mojo (2017). “CEC Concept”. Wikimedia Commons - Image. 
-</a>
-
 
 
 
