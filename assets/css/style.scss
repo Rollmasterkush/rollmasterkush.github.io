@@ -540,7 +540,7 @@ a.btn.btn-beta {
     top: 50px; /* 200px, 400px */
     left: 25px;
     color: #fff;
-    font-size: 4rem;
+    font-size: 2rem;
 }
 
 
@@ -551,6 +551,7 @@ a.btn.btn-beta {
     width: 100%;
     position:relative;
     margin: 50px auto;
+    padding: 0px 25px;
 }
 .blog-preview-img {
     display:inline-block;
@@ -743,6 +744,7 @@ footer .col-borders {
     }
     .page-heading {
     top: 200px;
+        font-size: 4rem;
     } 
     .landing-bg {
     top: 200px;
