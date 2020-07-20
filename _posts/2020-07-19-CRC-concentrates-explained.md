@@ -16,7 +16,7 @@ categories: [July2020]
 
 ![CRC Terp Badder]({{"../assets/img/terp-badder-CRC.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-Durban Poison Terp Badder from Harmony Extracts made using CRC methods. Image is from an Instagram Post by [@harmony_extracts on 7/12/2020](https://www.instagram.com/p/CCeE_0khKX8/)
+Durban Poison Terp Badder from Harmony Extracts made using CRC methods. Image is from an Instagram Post by <a href="https://www.instagram.com/p/CCeE_0khKX8/">@harmony_extracts on 7/12/2020</a>.
 </div>
 
 
@@ -30,7 +30,7 @@ In recent years, a new type of extract has emerged onto the cannabis market know
 
 ![Closed Loop Extraction System]({{"../assets/img/closed-loop-extraction.jpg" | relative_url}}){:class="post-lg-2"}
 <div class="text-center blog-caption">
-[Apeks Supercritical CO2 Closed Loop Extraction System](https://www.apekssupercritical.com/extraction-systems/introductory-the-bambino/). This system can process up to 14 pounds of dried cannabis in a single day. A Color Remediation Column is added to an existing system similar to one like this. 
+<a href="https://www.apekssupercritical.com/extraction-systems/introductory-the-bambino/">Apeks Supercritical CO2 Closed Loop Extraction System</a>. This system can process up to 14 pounds of dried cannabis in a single day. A Color Remediation Column is added to an existing system similar to one like this. 
 </div>
 
 
