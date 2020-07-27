@@ -30,8 +30,12 @@ Granular fertilizers typically consist of small particles and can be separate or
 
 
 
+![Liquid General Hydroponics Nutrients]({{"../assets/img/gh-flora-series.jpg" | relative_url}}){:class="post-lg-2"}
+
+
+
 #### Liquid Fertilizers
-The biggest advantage of liquid fertilizers is the ability to easily apply it as a foliar to get an array of benefits from a mixed product that can target deficiencies. Foliar applications can allow for nutrients to be more readily absorbed than ground application through the leaves of the cannabis plants. It is important to note that the availability of the nutrients when applied this way is much shorter than ground application. This is why foliar applications are a great method to correct nutrient deficiencies in the short-term or to provide an additional nutrient boost rather than as part of a regular nutrient schedule (UF, 2013). Some examples of popular liquid fertilizers that can be applied as part of a nutrient schedule and as a foliar application include brands such as Kimtec, Cyco, Heavy 16, and General Hydroponics.
+The biggest advantage of liquid fertilizers is the ability to easily apply it as a foliar to get an array of benefits from a mixed product that can target deficiencies. Foliar applications can allow for nutrients to be more readily absorbed than ground application through the leaves of the cannabis plants. It is important to note that the availability of the nutrients when applied this way is much shorter than ground application. This is why foliar applications are a great method to correct nutrient deficiencies in the short-term or to provide an additional nutrient boost rather than as part of a regular nutrient schedule (UF, 2013). Some examples of popular liquid fertilizers that can be applied as part of a nutrient schedule and as a foliar application include brands such as Kimtec, Cyco, Heavy 16, and General Hydroponics. In general, liquid fertilizers are applied much like granular fertilizers in that they are mixed in water and applied throughout a plant’s life cycle. Liquid fertilizers are easier to learn and use while granular fertilizers can be difficult to use, but cheaper over time in large quantities. 
 
 
 
