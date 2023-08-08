@@ -1,3 +1,3 @@
-## Welcome to Rollmaster Kush Lifestyle Blog
+## Welcome to Rolling Mountain Kush
 
-Welcome to the Rollmaster Kush Lifestyle Blog
+Welcome to the Rolling Mountain Kush
