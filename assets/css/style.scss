@@ -37,12 +37,12 @@ body {
 .col-landing::before {
     content:" ";
     position:absolute;
-    z-index:10;
+    z-index:1;
     top:0;
     left:0;
     height:100%;
-    width:100vw;
-    background: transparent;
+    width:100%;
+    box-shadow: 2000px 0px 0px 0px inset rgba(0,0,0,0.35);
 }
 .landing-bg {
     height: auto;
@@ -602,7 +602,8 @@ footer .col-borders {
     }
     .landing-bg .sub-title {
     letter-spacing: -5px;
-    top:50px;
-    font-size:5rem;
-}
+    top: 250px;
+    font-size: 5rem;
+    left: 650px;
+  }
 }
