@@ -221,7 +221,7 @@ nav .nav-item .nav-link {
     text-align:center;
     color: #42d142;
 }
-.round-btn a {
+.round-btn a, .round-btn a:visited {
     color: #42d142 !important;
 }
 .round-btn:hover, .round-btn:active {
@@ -563,6 +563,15 @@ footer .col-borders {
     }
     .blog-preview-title {
     font-size:1.25rem;
+    display: block;
+    width: 50%;
+    float: left;
+    }
+    .blog-preview-date {
+      width: 50%;
+      position: relative;
+      display: block;
+      float: left;
     }
     footer {
     height: 300px;
