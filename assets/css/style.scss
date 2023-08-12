@@ -130,7 +130,7 @@ nav {
 }
 .navbar-light .navbar-logo img {
     position:absolute;
-    height: 3rem;
+    height: 3.5rem;
     top: 5px;
 }
 .navbar .navbar-expand-lg .navbar-light {
@@ -348,8 +348,10 @@ a.btn.btn-beta {
 }
 /* AGE VERIFICATION POP UP */
 /* LANDING CAROUSEL */
+.landing-carousel .carousel-inner {
+  height: 900px;
+}
 .landing-carousel .carousel-inner .carousel-item {
-    height: 40vh;
     max-width: 100%;
     padding: 30%;
 }
@@ -368,7 +370,7 @@ a.btn.btn-beta {
 .landing-carousel .carousel-inner .carousel-item img {
     position: absolute;
     left: 0;
-    top: 0;
+    top: -100px;
     width: 100%;
     height: auto;
 }
