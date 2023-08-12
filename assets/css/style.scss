@@ -422,9 +422,8 @@ left: auto;
     text-shadow: 3px 3px 6px rgba(0,0,0,0.95);
 }
 .landing-carousel .carousel-caption {
-   font-size: 1.15rem;
    display:block;
-   width: 300px;
+   width: 400px;
 }
 .landing-carousel .carousel-caption,
  .landing-carousel .carousel-caption h4 {
@@ -578,8 +577,8 @@ footer .col-borders {
     }
     .blog-preview-title {
     font-size:1.25rem;
-    display: block;
     width: 50%;
+    display:block;
     float: left;
     }
     .blog-preview-date {
@@ -587,6 +586,9 @@ footer .col-borders {
       position: relative;
       display: block;
       float: left;
+      padding: 40px;
+      margin: 10px 20px;
+      background-image: linear-gradient(to left, grey, black);
     }
     footer {
     height: 300px;
@@ -628,6 +630,6 @@ footer .col-borders {
     letter-spacing: -5px;
     top: 250px;
     font-size: 5rem;
-    left: 650px;
+    left: 150px;
   }
 }
