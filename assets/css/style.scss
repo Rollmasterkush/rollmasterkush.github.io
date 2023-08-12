@@ -564,6 +564,8 @@ a.btn.btn-beta {
 }
 .blog-preview-img {
     display:inline-block;
+  }
+
 footer .col-borders {
     }
 
@@ -588,8 +590,13 @@ footer .col-borders {
       float: left;
       padding: 40px;
       margin: 10px 20px;
-      background-image: linear-gradient(to left, grey, black);
+      background: #000;
     }
+
+
+
+
+
     footer {
     height: 300px;
     }
@@ -602,7 +609,7 @@ footer .col-borders {
 .blog-post-header h4 {
     font-size: 1.25em;
     }
-}
+
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
     .navbar-light .nav-link {
