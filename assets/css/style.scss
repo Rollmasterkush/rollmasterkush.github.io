@@ -502,9 +502,9 @@ left: auto;
     left: -20px;
 }
 .text-fade-bg {
-    color: rgba(20,20,20,0.15);
+    color: rgba(60,60,60,0.15);
     top:0%;
-    right:5%;
+    left: 35%;
     position:absolute;
     z-index:-10;
     font-family: 'Satisfy', cursive;
@@ -575,7 +575,7 @@ footer .col-borders {
     width: 175px;
     }
     .text-fade-bg {
-    font-size: 15rem;
+    font-size: 25rem;
     }
     .blog-preview-title {
     font-size:1.25rem;
@@ -595,6 +595,7 @@ footer .col-borders {
       color:#fff;
       font-weight:bold;
       text-transform:uppercase;
+      box-shadow: 5px 5px 10px rgba(60,60,60,0.35);
     }
 
 
