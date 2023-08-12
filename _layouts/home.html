@@ -400,7 +400,7 @@ background-size: contain;">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <div style="margin:45px 0;width: 100%;display: block;position: relative;height: 100%;">
 		<h2 class="blog-preview-title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-    <span class="blog-preview-date"><span class="post-meta">{{ post.date | date: date_format }}</span></span>
+    <div class="blog-preview-date"><span>{{ post.date | date: date_format }}</span></div>
           </div>
 
  {% endfor %}
