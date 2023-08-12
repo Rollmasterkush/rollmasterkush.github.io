@@ -610,6 +610,7 @@ footer .col-borders {
     footer .site-logo {
       font-family: 'Satisfy', cursive;
       font-size: 10rem;
+      color: #777;
     }
     footer .footer-nav-list {
       list-style: none;
@@ -619,6 +620,10 @@ footer .col-borders {
     }
     footer .site-copyright {
       bottom: 0;
+    }
+    footer .social-footer i {
+      margin: 5px 10px;
+      font-size:2rem;
     }
 
 
