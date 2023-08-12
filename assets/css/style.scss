@@ -105,9 +105,8 @@ z-index:10;
     margin-top: 100px;
 }
 .section-title {
-    text-align:right;
-    padding:20px 40px;
-    font-size:1.55rem;
+    padding:20px;
+    font-size:1.65rem;
 }
 /* GENERAL - END */
 /* NAVIGATION */
@@ -229,6 +228,9 @@ nav .nav-item .nav-link {
     color: #fff;
     transition: all 0.3s ease-in-out;
 }
+
+
+
 /* AGE VERIFICATION POP UP */
 a.btn {
   background-color: #27a027;
@@ -347,6 +349,12 @@ a.btn.btn-beta {
   display: block;
 }
 /* AGE VERIFICATION POP UP */
+
+
+
+
+
+
 /* LANDING CAROUSEL */
 .landing-carousel .carousel-inner {
   height: 900px;
@@ -386,7 +394,7 @@ a.btn.btn-beta {
     margin: 0 20px;
     color: #fff;
     text-align: center;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.25);
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.95);
     font-size:1.05rem;
 }
 .landing-carousel .carousel-caption .caption-block hr {
@@ -399,6 +407,30 @@ a.btn.btn-beta {
 .landing-carousel .carousel-caption .caption-block {
     margin: 50px 0;
 }
+.page-heading {
+top: 200px;
+    font-size: 4rem;
+}
+.landing-bg {
+top: 200px;
+left: auto;
+}
+.landing-bg .sub-title {
+    font-size: 3rem;
+    top: 0px;
+    left: 20px;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.95);
+}
+.landing-carousel .carousel-caption {
+   font-size: 1.15rem;
+   display:block;
+   width: 300px;
+}
+.landing-carousel .carousel-caption,
+ .landing-carousel .carousel-caption h4 {
+  font-weight: bold;
+}
+
 /* GROW LOGS */
 .grow-log-preview,
 .grow-log-preview img {
@@ -535,24 +567,7 @@ a.btn.btn-beta {
     display:inline-block;
 footer .col-borders {
     }
-    .page-heading {
-    top: 200px;
-        font-size: 4rem;
-    }
-    .landing-bg {
-    top: 200px;
-    left: auto;
-    }
-    .landing-bg .sub-title {
-        font-size: 3rem;
-        top: 0px;
-        left: 20px;
-    }
-    .landing-carousel .carousel-caption {
-       font-size:0.95rem;
-       display:block;
-       width: 300px;
-    }
+
     .grow-log-preview,
      .grow-log-preview img {
     height: 225px;
