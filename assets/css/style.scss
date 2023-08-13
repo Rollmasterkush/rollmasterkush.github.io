@@ -557,18 +557,28 @@ left: auto;
 
 .grow-log h1 {
   font-weight: bold;
+  margin-top: 100px;
+}
+.grow-log h5 {
+  font-weight: bold;
 }
 .grow-log hr {
   width: 60%;
 }
 .grow-log img {
-  height: 400px;
-  width: 500px;
+  height: 600px;
+  width: 550px;
   margin: 100px auto;
   display: block;
 }
 .grow-log .grow-log-info {
-  margin: 100px auto;
+  margin: 50px auto 200px auto;
+}
+.grow-log .grow-log-info ul {
+  list-style: none;
+}
+.grow-log .grow-log-info ul li {
+  padding: 10px 0px;
 }
 
 
