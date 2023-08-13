@@ -77,7 +77,7 @@ layout: default
     <div class="col col-full-width">
         <div class="content-block" style="background-image: url(../assets/img/mtn-bg.png);background-color:#fff;background-position: center;background-repeat: repeat-x;
 background-size: contain;">
-        <h3 class="title-center">Curated Genetics</h3>
+        <h2 class="title-center">Curated Genetics</h2>
             <div class="row">
                 <div class="col-6 col-md-3">
                     <div class="grow-log-preview">
@@ -392,17 +392,17 @@ background-size: contain;">
 
   <div class="row row-adjust">
     <div class="col">
-      <h3 class="text-center">Latest Articles</h3>
+      <h2 class="title-center">Latest Articles</h2>
         <div class="content-block">
         <div class="text-fade-bg">RMK</div>
       <article class="blog-preview-box">
         {% for post in site.posts limit:5  %}
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <div class="row">
-            <div class="col-6">
+            <div class="col-8">
                 	<h2 class="blog-preview-title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
               </div>
-              <div class="col-6">
+              <div class="col-4">
                   <div class="blog-preview-date"><span>{{ post.date | date: date_format }}</span></div>
                 </div>
           </div>
