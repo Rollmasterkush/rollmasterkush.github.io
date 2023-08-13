@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 {% if site.google_analytics %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138698292-1"></script>
@@ -51,17 +52,17 @@ if (sessionStorage.getItem('advertOnce') !== 'true') {
 }else{
   $('.overlay-verify').hide();
 }
- 
+
 $('#refresh-page').on('click',function(){
 $('.overlay-verify').hide();
 sessionStorage.setItem('advertOnce','true');
 });
-  
+
 $('#reset-session').on('click',function(){
 $('.overlay-verify').show();
 sessionStorage.setItem('advertOnce','');
 });
- 
+
 });
 </script>
 
@@ -71,4 +72,3 @@ sessionStorage.setItem('advertOnce','');
 
 <!-- Favicon -->
 <link rel="shortcut icon" type="image/png" href="../assets/img/favicon.png"/>
-
