@@ -598,7 +598,8 @@ footer .col-borders {
     .text-fade-bg {
     font-size: 25rem;
     }
-    .blog-preview-title {
+    .blog-preview-title
+      .post-link  {
       font-size: 20px;
       font-weight: bold;
       width: 70%;
@@ -615,6 +616,7 @@ footer .col-borders {
       margin: 10px auto;
       background: #000;
       color:#fff;
+      font-size: 0.9rem;
       font-weight:bold;
       text-transform:uppercase;
       box-shadow: 5px 5px 10px rgba(60,60,60,0.35);
@@ -748,13 +750,15 @@ footer .col-borders {
     .blog-post-header {
     padding: 200px 25px;
     }
-    .blog-preview-title {
+    .blog-preview-title
+     .post-link  {
       font-size: 24px;
     }
     .blog-preview-date {
       width: 150px;
       height: 125px;
       padding: 40px;
+      font-size: 1rem;
     }
 }
 /* desktop only */
