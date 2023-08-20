@@ -128,8 +128,8 @@ nav {
     margin-top: 15px;
 }
 .navbar-light .navbar-logo img {
-    position:absolute;
-    height: 3.65rem;
+    position: absolute;
+    height: 3rem;
     top: 5px;
 }
 .navbar .navbar-expand-lg .navbar-light {
@@ -357,7 +357,7 @@ a.btn.btn-beta {
 
 /* LANDING CAROUSEL */
 .landing-carousel .carousel-inner {
-  height: 900px;
+  height: 100%;
 }
 .landing-carousel .carousel-inner .carousel-item {
     max-width: 100%;
@@ -420,10 +420,6 @@ left: auto;
     top: 0px;
     left: 20px;
     text-shadow: 3px 3px 6px rgba(0,0,0,0.95);
-}
-.landing-carousel .carousel-caption {
-   display:block;
-   width: 400px;
 }
 .landing-carousel .carousel-caption,
  .landing-carousel .carousel-caption h4 {
@@ -690,8 +686,16 @@ footer .col-borders {
     font-size: 1.25em;
     }
 
+
+/* MEDIA QUERIES */
+
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
+  .navbar-light .navbar-logo img {
+      position: absolute;
+      height: 3.65rem;
+      top: 5px;
+  }
     .navbar-light .nav-link {
         text-align:left;
     }
@@ -700,6 +704,10 @@ footer .col-borders {
     }
     .full-width-img {
     height: 500px;
+    }
+    .landing-carousel .carousel-caption {
+       display:block;
+       width: 400px;
     }
     footer .site-copyright {
     position:absolute;
