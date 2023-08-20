@@ -412,10 +412,6 @@ a.btn.btn-beta {
 top: 200px;
     font-size: 4rem;
 }
-.landing-bg {
-top: 200px;
-left: auto;
-}
 .landing-bg .sub-title {
     font-size: 3rem;
     top: 0px;
@@ -714,6 +710,10 @@ footer .col-borders {
     .landing-carousel .carousel-caption {
        display:block;
        width: 400px;
+    }
+    .landing-bg {
+    top: 200px;
+    left: auto;
     }
     footer .site-copyright {
     position:absolute;
