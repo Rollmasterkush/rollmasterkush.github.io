@@ -599,6 +599,7 @@ footer .col-borders {
     font-size: 25rem;
     }
     .blog-preview-title {
+      font-size: 20px;
       font-weight: bold;
       width: 70%;
       display: block;
@@ -606,11 +607,11 @@ footer .col-borders {
       position: relative;
       }
     .blog-preview-date {
-      width: 150px;
-      height: 125px;
+      width: auto;
+      height: 120px;
       position: relative;
       display: block;
-      padding: 40px;
+      padding: 40px 20px;
       margin: 10px auto;
       background: #000;
       color:#fff;
@@ -690,6 +691,13 @@ footer .col-borders {
     }
 
 
+
+
+
+
+
+
+
 /* MEDIA QUERIES */
 
  /* tablet landscape, small desktop & up */
@@ -739,6 +747,14 @@ footer .col-borders {
     }
     .blog-post-header {
     padding: 200px 25px;
+    }
+    .blog-preview-title {
+      font-size: 24px;
+    }
+    .blog-preview-date {
+      width: 150px;
+      height: 125px;
+      padding: 40px;
     }
 }
 /* desktop only */
