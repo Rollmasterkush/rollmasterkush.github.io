@@ -360,8 +360,9 @@ a.btn.btn-beta {
   height: 100%;
 }
 .landing-carousel .carousel-inner .carousel-item {
-    max-width: 100%;
-    padding: 30%;
+  max-width: 100%;
+  padding: 0%;
+  min-height: 200px;
 }
 .carousel-item::before {
     content:" ";
@@ -378,7 +379,7 @@ a.btn.btn-beta {
 .landing-carousel .carousel-inner .carousel-item img {
     position: absolute;
     left: 0;
-    top: -100px;
+    top: 0px;
     width: 100%;
     height: auto;
 }
@@ -702,6 +703,13 @@ footer .col-borders {
     }
     .full-width-img {
     height: 500px;
+    }
+    .landing-carousel .carousel-inner .carousel-item {
+        max-width: 100%;
+        padding: 30%;
+    }
+    .landing-carousel .carousel-inner .carousel-item img {
+        top: -100px;
     }
     .landing-carousel .carousel-caption {
        display:block;
