@@ -129,7 +129,7 @@ nav {
 }
 .navbar-light .navbar-logo img {
     position: absolute;
-    height: 3rem;
+    height: 2.5rem;
     top: 5px;
 }
 .navbar .navbar-expand-lg .navbar-light {
@@ -692,9 +692,7 @@ footer .col-borders {
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
   .navbar-light .navbar-logo img {
-      position: absolute;
-      height: 3.65rem;
-      top: 5px;
+      height: 3rem;
   }
     .navbar-light .nav-link {
         text-align:left;
@@ -718,6 +716,9 @@ footer .col-borders {
 }
 /* desktop only */
 @media all and (min-width: 69.5em) {
+  .navbar-light .navbar-logo img {
+      height: 3.65rem;
+  }
     .page-heading {
     top: 400px;
     }
