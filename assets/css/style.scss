@@ -426,8 +426,8 @@ top: 200px;
 /* GROW LOGS */
 .grow-log-preview,
 .grow-log-preview img {
-    height: 450px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
 }
 .grow-log-preview {
     background: #3d3d3d;
@@ -546,6 +546,12 @@ top: 200px;
     font-size: 4rem;
     font-size: 2rem;
 }
+.section-p-left {
+  font-size:1rem;
+  line-height:1.5;
+  padding:0 20px;
+  margin-right:10px;
+}
 
 
 .grow-log h1 {
@@ -620,8 +626,8 @@ footer .col-borders {
 
 .gallery-img-sm {
   margin: 10px auto;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
 }
 .gallery-caption {
   position: relative;
@@ -700,6 +706,9 @@ footer .col-borders {
     .full-width-img {
     height: 500px;
     }
+    .section-p-left {
+      font-size:1.35rem;
+    }
     .landing-carousel .carousel-inner .carousel-item {
         max-width: 100%;
         padding: 30%;
@@ -714,6 +723,16 @@ footer .col-borders {
     .landing-bg {
     top: 200px;
     left: auto;
+    }
+    .grow-log-preview,
+    .grow-log-preview img {
+        height: 450px;
+        width: 400px;
+    }
+    .gallery-img-sm {
+      margin: 10px auto;
+      height: 400px;
+      width: 400px;
     }
     footer .site-copyright {
     position:absolute;
