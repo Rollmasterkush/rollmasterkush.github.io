@@ -603,11 +603,14 @@ footer .col-borders {
     .blog-preview-title
       .post-link  {
       font-size: 20px;
-      font-weight: bold;
       width: 70%;
       display: block;
       margin: 10px auto;
       position: relative;
+      }
+      .blog-preview-title
+       .post-link  {
+        color: #42d142;
       }
     .blog-preview-date {
       width: auto;
@@ -766,6 +769,7 @@ footer .col-borders {
     .blog-preview-title
      .post-link  {
       font-size: 24px;
+      color: #42d142;
     }
     .blog-preview-date {
       width: 150px;
