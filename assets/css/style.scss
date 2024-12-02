@@ -44,10 +44,28 @@ img {
     padding: 0 !important;
 }
 
+
+
+
+/* Landing Image for Homepage - mobile first */
 .landing-image {
-   height: 55rem;
+   height: 30rem;
    width: 100%;
 }
+/* media query - tablet landscape, small desktop & up */
+@media all and (min-width: 60.5em) {
+  .landing-image {
+     height: 45rem;
+  }
+}
+/* media query - desktop only */
+@media all and (min-width: 69.5em) {
+  .landing-image {
+     height: 55rem;
+  }
+}
+
+
 .clip-box-left, .clip-box-right {
     background: linear-gradient(to top,#279f27,#42d142);
     height: 400px;
@@ -645,24 +663,6 @@ footer .col-borders {
     }
     .section-p-left {
       font-size:1.35rem;
-    }
-    .landing-carousel .carousel-inner .carousel-item {
-        max-width: 100%;
-        padding: 30%;
-    }
-    .landing-carousel .carousel-inner .carousel-item img {
-        top: -100px;
-    }
-    .landing-carousel .carousel-caption {
-       display:block;
-       width: 400px;
-    }
-    .landing-bg {
-    top: 200px;
-    left: auto;
-    }
-    .landing-bg .sub-title {
-          left: -20px;
     }
     .grow-log-preview,
     .grow-log-preview img {
