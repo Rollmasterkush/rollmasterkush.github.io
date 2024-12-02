@@ -64,6 +64,23 @@ img {
      height: 55rem;
   }
 }
+/* Homepage Images - mobile first */
+.home-image-box {
+  height:35rem;
+  overflow:hidden;
+}
+/* media query - tablet landscape, small desktop & up */
+@media all and (min-width: 60.5em) {
+  .home-image-box {
+    height:25rem;
+  }
+}
+/* media query - desktop only */
+@media all and (min-width: 69.5em) {
+  .home-image-box {
+    height:30rem;
+  }
+}
 
 
 .clip-box-left, .clip-box-right {
