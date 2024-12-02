@@ -44,20 +44,10 @@ img {
     padding: 0 !important;
 }
 
-.landing-bg {
-    height: auto;
-    width: 500px;
-    position:absolute;
-    top: 20px;
-    bottom:0;
-    left:-25px;
-    margin:0;
-    z-index:10;
-    color:#fff;
+.landing-image {
+   height: 55rem;
+   width: 100%;
 }
-.landing-bg h3 {
-    font-size: 1rem;
-    }
 .clip-box-left, .clip-box-right {
     background: linear-gradient(to top,#279f27,#42d142);
     height: 400px;
@@ -68,34 +58,7 @@ img {
     height: auto;
     margin: 100px 0;
 }
-.text-bg {
-    background: #42d142;
-    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0 100%, 0 0);
-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0 100%, 0 0);
-    top:0;
-    left:0;
-    color:#fff;
-    height: 500px;
-    width: 700px;
-    padding: 120px 60px 0 60px;
-    position:absolute;
-    z-index:10;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.35);
-}
-.text-bg-alt {
-    background:#ffd700;
-    -webkit-clip-path: polygon(50% 0%, 100% 0, 100% 100%, 50% 100%, 0% 75%, 0% 25%);
-clip-path: polygon(50% 0%, 100% 0, 100% 100%, 50% 100%, 0% 75%, 0% 25%);
-    color:#fff;
-    height: 500px;
-    width: 700px;
-    padding: 120px 60px 0 100px;
-    position:absolute;
-z-index:10;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.35);
-    top:0;
-    right:0;
-}
+
 .block-break-left {
     border-left: 2px solid #279f27;
 }
