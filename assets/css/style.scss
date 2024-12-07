@@ -53,13 +53,13 @@ img {
    width: 100%;
 }
 /* media query - tablet landscape, small desktop & up */
-@media all and (min-width: 60.5em) {
+@media all and (min-width: 60.5rem) {
   .landing-image {
      height: 45rem;
   }
 }
 /* media query - desktop only */
-@media all and (min-width: 69.5em) {
+@media all and (min-width: 69.5rem) {
   .landing-image {
      height: 55rem;
   }
@@ -71,18 +71,18 @@ img {
   overflow:hidden;
 }
 /* media query - tablet landscape, small desktop & up */
-@media all and (min-width: 60.5em) {
+@media all and (min-width: 60.5rem) {
   .home-image-box {
     height:25rem;
   }
 }
 /* media query - desktop only */
-@media all and (min-width: 69.5em) {
+@media all and (min-width: 65.5rem) {
   .home-image-box {
     height:30rem;
   }
 }
-@media all and (min-width: 74.5em) {
+@media all and (min-width: 74.5rem) {
   .home-image-box {
     height:35rem;
   }
@@ -94,13 +94,13 @@ img {
     font-size: 1.25rem;
 }
 /* tablet landscape, small desktop & up */
-@media all and (min-width: 60.5em) {
+@media all and (min-width: 60.5rem) {
    .section-title {
        font-size: 2rem;
    }
 }
 /* media query - desktop only */
-@media all and (min-width: 69.5em) {
+@media all and (min-width: 69.5rem) {
   .section-title {
       font-size: 2.75rem;
   }
