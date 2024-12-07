@@ -67,17 +67,22 @@ img {
 
 /* Homepage Images - mobile first */
 .home-image-box {
-  height:25rem;
+  height:20rem;
   overflow:hidden;
 }
 /* media query - tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
   .home-image-box {
-    height:30rem;
+    height:25rem;
   }
 }
 /* media query - desktop only */
 @media all and (min-width: 69.5em) {
+  .home-image-box {
+    height:30rem;
+  }
+}
+@media all and (min-width: 74.5em) {
   .home-image-box {
     height:35rem;
   }
