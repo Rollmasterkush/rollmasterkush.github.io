@@ -121,6 +121,20 @@ img {
   }
 }
 
+.content-block {
+    height: auto;
+}
+@media all and (min-width: 60.5em) {
+  .content-block {
+      margin: 100px 0;
+  }
+}
+@media all and (min-width: 69.5em) {
+  .content-block {
+      margin: 100px 0;
+  }
+}
+
 
 
 
@@ -131,11 +145,6 @@ img {
     width: 300px;
     position:absolute;
 }
-.content-block {
-    height: auto;
-    margin: 100px 0;
-}
-
 .block-break-left {
     border-left: 2px solid #279f27;
 }
