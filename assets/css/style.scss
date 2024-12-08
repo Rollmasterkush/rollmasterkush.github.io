@@ -189,12 +189,24 @@ nav {
     width: 75px;
     margin-top: 15px;
 }
+
+
+
+
 .navbar-light .navbar-logo img {
     position: absolute;
-    height: 2.5rem;
+    height: 4rem;
     top: 5px;
     filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
 }
+@media all and (min-width: 69.5em) {
+  .navbar-light .navbar-logo img {
+      height: 4.5rem;
+    }
+}
+
+
+
 .navbar .navbar-expand-lg .navbar-light {
     padding: 0px;
 }
@@ -702,9 +714,6 @@ footer .col-borders {
 
  /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
-  .navbar-light .navbar-logo img {
-      height: 3rem;
-  }
     .navbar-light .nav-link {
         text-align:left;
     }
@@ -745,11 +754,6 @@ footer .col-borders {
 }
 /* desktop only */
 @media all and (min-width: 69.5em) {
-  .navbar-light .navbar-logo img {
-      height: 4.5rem;
-    .page-heading {
-    top: 400px;
-    }
     .landing-bg .sub-title {
     letter-spacing: -5px;
     top: 250px;
