@@ -67,7 +67,7 @@ img {
 
 /* Homepage Images - mobile first */
 .home-image-box {
-  height:20rem;
+  min-height:15rem;
   overflow:hidden;
 }
 /* media query - tablet landscape, small desktop & up */
@@ -90,14 +90,8 @@ img {
 
 /* Section Title - Mobile First */
 .section-title {
-    padding: 3rem;
+    padding: 2rem;
     font-size: 2rem;
-}
-@media all and (min-width: 40.5rem) {
-  .section-title {
-      padding: 3rem;
-      font-size: 2.5rem;
-  }
 }
 /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5rem) {
