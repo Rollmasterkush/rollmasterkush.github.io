@@ -91,12 +91,11 @@ img {
 /* Section Title - Mobile First */
 .section-title {
     padding: 3rem;
-    font-size: 1.25rem;
+    font-size: 3rem;
 }
 /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5rem) {
    .section-title {
-       font-size: 2rem;
    }
 }
 /* media query - desktop only */
@@ -108,15 +107,16 @@ img {
 
 /* Section Paragraph Left - Mobile First */
 .section-p-left {
-  font-size:1rem;
+  font-size:2rem;
   line-height:1.5;
-  padding:0 20px;
+  padding:0 50px 200px 50px;
   margin-right:10px;
 }
 /* tablet landscape, small desktop & up */
 @media all and (min-width: 60.5em) {
   .section-p-left {
     font-size:1.25rem;
+    padding:0 50px 50px 50px;
   }
 }
 /* media query - desktop only */
