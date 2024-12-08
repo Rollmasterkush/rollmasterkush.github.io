@@ -70,6 +70,19 @@ img {
   top: 100px;
   left: 50px;
 }
+.landing-text-box h2,
+ .landing-text-box p {
+   text-shadow: 10px 10px 10px #000;
+   text-transform: uppercase;
+   font-weight: bolder;
+ }
+.landing-text-box h2 {
+  font-size: 3rem;
+}
+.landing-text-box p {
+  font-size: 1.25rem;
+  width: 50vw;
+}
 /* Homepage Images - mobile first */
 .home-image-box {
   min-height:15rem;
